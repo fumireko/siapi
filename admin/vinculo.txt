@@ -1,0 +1,43 @@
+Usuario Claudio Data : 20250218   - CTI 2272 - Disp Monitor - Loc. 17 -Sec. 33
+Usuario Claudio Data : 20250218   - CTI 2271 - Disp Monitor - Loc. 17 -Sec. 33
+Usuario Claudio Data : 20250218   - CTI 2276 - Disp Monitor - Loc. 17 -Sec. 33
+Usuario Claudio Data : 20250218   - CTI 2284 - Disp Monitor - Loc. 17 -Sec. 33
+Usuario Claudio Data : 20250218   - CTI 2289 - Disp Monitor - Loc. 17 -Sec. 33
+Usuario Claudio Data : 20250218   - CTI 2282 - Disp Monitor - Loc. 17 -Sec. 33
+Usuario João Vitor Simão Gonçalves Data : 20250219   - CTI 2987 - Disp PC - Loc. 1070 -Sec. 42
+Usuario Eduardo Costa Data : 20250219   - CTI 2391 - Disp PC - Loc. 23 -Sec. 35
+Usuario João Vitor Simão Gonçalves Data : 20250219   - CTI 2996 - Disp PC - Loc. 390 -Sec. 36
+Usuario Guilherme Melendi de Moraes Data : 20250219   - CTI 2392 - Disp PC - Loc. 28 -Sec. 35
+Usuario Jo�o Vitor Sim�o Gon�alves Data : 20250219   - CTI 2976 - Disp PC - Loc. 256 -Sec. 33
+Usuario Eduardo Costa Data : 20250219   - CTI 12345 - Disp PC - Loc. 849 -Sec. 39
+Usuario Claudio Data : 20250219   - CTI 5000 - Disp PC - Loc. 208 -Sec. 44
+Usuario Claudio Data : 20250219   - CTI 5000 - Disp PC - Loc. 208 -Sec. 44
+Usuario Eduardo Costa Data : 20250219   - CTI 12345 - Disp PC - Loc. 23 -Sec. 35
+Usuario Claudio Data : 20250219   - CTI 5500 - Disp NOTEBOOK - Loc. 17 -Sec. 33
+Usuario Claudio Data : 20250221   - CTI 4015 - Disp PC - Loc. 17 -Sec. 33
+Usuario Claudio Data : 20250221   - CTI 4015 - Disp PC - Loc. 17 -Sec. 33
+Usuario Claudio Data : 20250221   - CTI 4017 - Disp PC - Loc. 17 -Sec. 33
+Usuario Claudio Data : 20250221   - CTI 4017 - Disp PC - Loc. 17 -Sec. 33
+Usuario Claudio Data : 20250221   - CTI 4017 - Disp PC - Loc. 17 -Sec. 33
+Usuario Claudio Data : 20250221   - CTI 4017 - Disp PC - Loc. 17 -Sec. 33
+Usuario Claudio Data : 20250221   - CTI 4017 - Disp PC - Loc. 17 -Sec. 33
+Usuario Claudio Data : 20250221   - CTI 4017 - Disp PC - Loc. 17 -Sec. 33
+Usuario Claudio Data : 20250221   - CTI 4017 - Disp PC - Loc. 17 -Sec. 33
+Usuario Claudio Data : 20250221   - CTI 4017 - Disp PC - Loc. 17 -Sec. 33
+Usuario Claudio Data : 20250221   - CTI 4017 - Disp PC - Loc. 17 -Sec. 33
+Usuario Claudio Data : 20250221   - CTI 4017 - Disp PC - Loc. 17 -Sec. 33
+Usuario Claudio Data : 20250221   - CTI 4017 - Disp PC - Loc. 17 -Sec. 33
+Usuario Claudio Data : 20250221   - CTI 4017 - Disp PC - Loc. 17 -Sec. 33
+Usuario Claudio Data : 20250221   - CTI 4019 - Disp PC - Loc. 17 -Sec. 33
+Usuario Claudio Data : 20250307   - CTI 3259 - Disp PC - Loc. 17 -Sec. 33
+Usuario Claudio Data : 20250307   - CTI 3259 - Disp PC - Loc. 17 -Sec. 33
+Usuario Claudio Data : 20250307   - CTI 3259 - Disp PC - Loc. 17 -Sec. 33
+Usuario Claudio Data : 20250307   - CTI 3259 - Disp PC - Loc. 17 -Sec. 33
+Usuario Claudio Data : 20250307   - CTI 3259 - Disp PC - Loc. 17 -Sec. 33
+Usuario Claudio Data : 20250310   - CTI 4500 - Disp PC - Loc. 17 -Sec. 33
+Usuario Claudio Data : 20250310   - CTI 4500 - Disp PC - Loc. 17 -Sec. 33
+Usuario Claudio Data : 20250312   - CTI 3300 - Disp Monitor - Loc. 17 -Sec. 33
+Usuario Claudio Data : 20250313   - CTI 4801 - Disp Monitor - Loc. 17 -Sec. 33
+Usuario Claudio Data : 20250313   - CTI 4900 - Disp PC - Loc. 17 -Sec. 33
+Usuario Claudio Data : 20250313   - CTI 5000 - Disp PC - Loc. 17 -Sec. 33
+Usuario Claudio Data : 20250319   - CTI 4524 - Disp PC - Loc. 17 -Sec. 33

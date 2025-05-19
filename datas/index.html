@@ -1,0 +1,43 @@
+<html>
+<head>
+<title>
+</title>
+
+<script>
+
+function idade( data )
+{
+data = document.form.txtData.value;
+
+data = data.split("/");
+dia = data[0]; 
+mês = data[1];
+ano = data[2];
+
+anoAtual = new Date();
+
+ano = parseInt( ano );
+if (ano != 2010 && ano != 2011)
+{
+	alert("Erro");
+}
+document.form.txtIdade.value = ano; 
+}
+
+</script>
+
+</head>
+
+<body>
+
+<form name="form">
+
+<input type="text" name="txtData" value="" ><br>
+<input type="text" name="txtIdade" value=""><br>
+
+<input type="button" value="validar" onclick="idade();">
+
+</form>
+
+</body>
+</html>

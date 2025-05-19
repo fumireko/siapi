@@ -1,0 +1,149 @@
+ Tentativa de add Monitor 204 no PC 1466  recusado !  motivo , equip ja cadastrado na base  Tecnico Claudio 
+ Tentativa de add Monitor 203 no PC 1466  recusado !  motivo , equip ja cadastrado na base 2024/09/12 13:55:57  Tecnico Claudio
+ Tentativa de add Monitor (D)203 204 no PC 1466  recusado !  motivo , equip ja cadastrado na base  - 2024/09/12 14:10:05  Tecnico Claudio
+ Tentativa de add Monitor (Note)1 no PC 1487  recusado !  motivo , equip ja cadastrado na base para equip 0 - 2024/09/12 14:25:08  Tecnico Claudio
+ Tentativa de add Monitor 121 no PC 1654  recusado !  motivo , equip ja cadastrado na base para equip 0 - 2024/09/13 15:04:03  Tecnico Claudio
+ Tentativa de add Monitor 125 no PC 1654  recusado !  motivo , equip ja cadastrado na base para equip 0 - 2024/09/13 15:05:28  Tecnico Claudio
+ Tentativa de add Monitor 125 no PC 1654  recusado !  motivo , equip ja cadastrado na base para equip 0 - 2024/09/13 15:06:38  Tecnico Claudio
+ Tentativa de add Monitor 124 no PC 1655  recusado !  motivo , equip ja cadastrado na base para equip 0 - 2024/09/13 16:40:33  Tecnico Claudio
+ Tentativa de add Monitor 121 no PC 1657  recusado !  motivo , equip ja cadastrado na base para Controle T.I 0 - 2024/09/13 16:58:17  Tecnico Claudio
+ Tentativa de add Monitor 121 no PC 1657  recusado !  motivo , equip ja cadastrado na base para Controle T.I 0 - 2024/09/13 17:03:28  Tecnico Claudio
+ Tentativa de add Monitor 121 no PC 1657  recusado !  motivo , equip ja cadastrado na base para Controle T.I 0 - 2024/09/13 17:04:32  Tecnico Claudio
+ Tentativa de add Monitor 121 no PC 1657  recusado !  motivo , equip ja cadastrado na base para Controle T.I 0 - 2024/09/13 17:05:33  Tecnico Claudio
+ Tentativa de add Monitor 121 no PC 1657  recusado !  motivo , equip ja cadastrado na base para Controle T.I 0 - 2024/09/13 17:17:13  Tecnico Claudio
+ Tentativa de add Monitor 121 no PC 1657  recusado !  motivo , equip ja cadastrado na base para Controle T.I 0 - 2024/09/13 17:17:39  Tecnico Claudio
+ Tentativa de add Monitor 121 no PC 1657  recusado !  motivo , equip ja cadastrado na base para Controle T.I 0 - 2024/09/13 17:20:42  Tecnico Claudio
+ Tentativa de add Monitor 121 no PC 1657  recusado !  motivo , equip ja cadastrado na base para Controle T.I 0 - 2024/09/13 18:14:05  Tecnico Claudio
+ Tentativa de add Monitor 121 no PC 1657  recusado !  motivo , equip ja cadastrado na base para Controle T.I 0 - 2024/09/13 18:14:50  Tecnico Claudio
+ Tentativa de add Monitor 121 no PC 1657  recusado !  motivo , equip ja cadastrado na base para Controle T.I 0 - 2024/09/13 18:16:11  Tecnico Claudio
+ Tentativa de add Monitor  no PC 1801  recusado !  motivo , equip ja cadastrado na base para Controle T.I 0 - 2024/10/15 18:21:17  Tecnico Claudio
+ Tentativa de add Monitor (D)0     no PC 1801  recusado !  motivo , equip ja cadastrado na base  - 2024/10/15 19:01:33  Tecnico Claudio
+ Tentativa de add Monitor (D)121     no PC 1801  recusado !  motivo , equip ja cadastrado na base  - 2024/10/15 19:02:57  Tecnico Claudio
+ Tentativa de add Monitor (D)1212     no PC 1801  recusado !  motivo , equip ja cadastrado na base  - 2024/10/15 19:03:25  Tecnico Claudio
+ Tentativa de add Monitor (D)1212     no PC 1801  recusado !  motivo , equip ja cadastrado na base  - 2024/10/15 19:05:51  Tecnico Claudio
+ Tentativa de add Monitor (D)     no PC 1801  recusado !  motivo , equip ja cadastrado na base  - 2024/10/15 19:06:03  Tecnico Claudio
+ Tentativa de add Monitor  no PC 1801  recusado !  motivo , equip ja cadastrado na base para Controle T.I 0 - 2024/10/15 19:06:29  Tecnico Claudio
+ Tentativa de add Monitor (D)     no PC 1801  recusado !  motivo , equip ja cadastrado na base  - 2024/10/15 19:06:40  Tecnico Claudio
+ Tentativa de add Monitor  no PC 1804  recusado !  motivo , equip ja cadastrado na base ,ou CTI em branco ,  Controle T.I 0 - 2024/10/16 18:38:18  Tecnico Claudio
+ Tentativa de add Monitor  no PC 1804  recusado !  motivo , equip ja cadastrado na base ,ou CTI em branco ,  Controle T.I 0 - 2024/10/16 18:38:48  Tecnico Claudio
+ Tentativa de add Monitor  no PC 1804  recusado !  motivo , equip ja cadastrado na base ,ou CTI em branco ,  Controle T.I 0 - 2024/10/16 18:39:05  Tecnico Claudio
+ Tentativa de add Monitor  no PC 1804  recusado !  motivo , equip ja cadastrado na base ,ou CTI em branco ,  Controle T.I 0 - 2024/10/16 18:39:46  Tecnico Claudio
+ Tentativa de add Monitor  no PC 1804  recusado !  motivo , equip ja cadastrado na base ,ou CTI em branco ,  Controle T.I 0 - 2024/10/16 18:40:41  Tecnico Claudio
+ Tentativa de add Monitor  no PC 1804  recusado !  motivo , equip ja cadastrado na base ,ou CTI em branco ,  Controle T.I 0 - 2024/10/16 18:40:47  Tecnico Claudio
+ Tentativa de add Monitor  no PC 1804  recusado !  motivo , equip ja cadastrado na base ,ou CTI em branco ,  Controle T.I 0 - 2024/10/16 18:41:21  Tecnico Claudio
+ Tentativa de add Monitor  no PC 1804  recusado !  motivo , equip ja cadastrado na base ,ou CTI em branco ,  Controle T.I 0 - 2024/10/16 18:41:29  Tecnico Claudio
+ Tentativa de add Monitor  no PC 1804  recusado !  motivo , equip ja cadastrado na base ,ou CTI em branco ,  Controle T.I 0 - 2024/10/16 18:42:13  Tecnico Claudio
+ Tentativa de add Monitor  no PC 1804  recusado !  motivo , equip ja cadastrado na base ,ou CTI em branco ,  Controle T.I 0 - 2024/10/16 18:45:08  Tecnico Claudio
+ Tentativa de add Monitor  no PC 1804  recusado !  motivo , equip ja cadastrado na base ,ou CTI em branco ,  Controle T.I 0 - 2024/10/16 18:45:11  Tecnico Claudio
+ Tentativa de add Monitor  no PC 1804  recusado !  motivo , equip ja cadastrado na base ,ou CTI em branco ,  Controle T.I 0 - 2024/10/16 18:49:55  Tecnico Claudio
+ Tentativa de add Monitor  no PC 1804  recusado !  motivo , equip ja cadastrado na base ,ou CTI em branco ,  Controle T.I 0 - 2024/10/16 18:50:42  Tecnico Claudio
+ Tentativa de add Monitor  no PC 1804  recusado !  motivo , equip ja cadastrado na base ,ou CTI em branco ,  Controle T.I 0 - 2024/10/16 18:52:12  Tecnico Claudio
+ Tentativa de add Monitor  no PC 1804  recusado !  motivo , equip ja cadastrado na base ,ou CTI em branco ,  Controle T.I 0 - 2024/10/16 18:55:00  Tecnico Claudio
+ Tentativa de add Monitor  no PC 1809  recusado !  motivo , equip ja cadastrado na base ,ou CTI em branco ,  Controle T.I 0 - 2024/10/16 19:16:12  Tecnico Claudio
+ Tentativa de add Monitor  no PC 1809  recusado !  motivo , equip ja cadastrado na base ,ou CTI em branco ,  Controle T.I 0 - 2024/10/16 19:16:31  Tecnico Claudio
+ Tentativa de add Monitor 1808 no PC 1809  recusado !  motivo , equip ja cadastrado na base ,ou CTI em branco ,  Controle T.I 1806 - 2024/10/16 19:17:07  Tecnico Claudio
+ Tentativa de add Monitor   recusado  no PC (2802) !  motivo , equip ja cadastrado na base  - 2024/11/05 13:01:12  Tecnico Claudio
+ Tentativa de add Monitor   recusado  no PC (2803) !  motivo , equip ja cadastrado na base  - 2024/11/05 13:08:01  Tecnico Claudio
+ Tentativa de add Monitor   recusado  no PC (2804) !  motivo , equip ja cadastrado na base  - 2024/11/05 13:10:30  Tecnico Claudio
+ Tentativa de add Monitor   recusado  no PC (2805) !  motivo , equip ja cadastrado na base  - 2024/11/05 13:29:29  Tecnico Claudio
+ Tentativa de add Monitor   recusado  no PC (2806) !  motivo , equip ja cadastrado na base  - 2024/11/05 13:30:58  Tecnico Claudio
+ Tentativa de add Monitor 1684 no PC 2808  recusado !  motivo , equip ja cadastrado na base ,ou CTI em branco ,  Controle T.I 0 - 2024/11/05 14:02:59  Tecnico Claudio
+ Tentativa de add Monitor (Unico)   recusado  no PC (2809) !  motivo , equip ja cadastrado na base ou Campo nao Informado  - 2024/11/05 14:52:00  Tecnico Claudio
+ Tentativa de add Monitor  no PC 2810  recusado !  motivo , CTI Monitor em  branco,  Controle T.I 0 - 2024/11/05 17:08:07  Tecnico Claudio
+ Tentativa de add Monitor  no PC 2810  recusado !  motivo , CTI Monitor em  branco,  Controle T.I 0 - 2024/11/05 17:09:01  Tecnico Claudio
+ Tentativa de add Monitor 2811 no PC 2810  recusado !  motivo , equip ja cadastrado na base, Controle T.I 0 - 2024/11/05 17:09:21  Tecnico Claudio
+ Tentativa de add Monitor 2812 no PC 2810  recusado !  motivo , equip ja cadastrado na base, Controle T.I 0 - 2024/11/05 17:09:46  Tecnico Claudio
+ Tentativa de add Monitor  no PC 2810  recusado !  motivo , CTI Monitor em  branco,  Controle T.I 0 - 2024/11/05 17:39:48  Tecnico Claudio
+ Tentativa de add Monitor  no PC 2810  recusado !  motivo , CTI Monitor em  branco,  Controle T.I 0 - 2024/11/05 17:45:53  Tecnico Claudio
+ Tentativa de add Monitor  no PC 2810  recusado !  motivo , CTI Monitor em  branco,  Controle T.I 0 - 2024/11/05 17:46:24  Tecnico Claudio
+ Tentativa de add Monitor 2809 no PC 2810  recusado !  motivo , equip ja cadastrado na base, Controle T.I 0 - 2024/11/05 17:46:54  Tecnico Claudio
+ Tentativa de add Monitor (D)     no PC 2811  recusado !  motivo , equip ja cadastrado na base ou CTI em branco  - 2024/11/05 17:50:47  Tecnico Claudio
+ Tentativa de add Monitor(t1)   recusado no PC (2811) !  motivo , equip ja cadastrado na base  - 2024/11/05 17:51:09  Tecnico Claudio
+ Tentativa de add Monitor  no PC 2812  recusado !  motivo , equip ja cadastrado na base, Controle T.I 0 - 2024/11/05 17:53:54  Tecnico Claudio
+ Tentativa de add Monitor  no PC 2812  recusado !  motivo , equip ja cadastrado na base, Controle T.I 0 - 2024/11/05 17:54:45  Tecnico Claudio
+ Tentativa de add Monitor  no PC 2812  recusado !  motivo , equip ja cadastrado na base, Controle T.I 0 - 2024/11/05 17:55:16  Tecnico Claudio
+ Tentativa de add Monitor  no PC 2812  recusado !  motivo , equip ja cadastrado na base, Controle T.I 0 - 2024/11/05 17:58:15  Tecnico Claudio
+ Tentativa de add Monitor 1684 no PC 2812  recusado !  motivo , equip ja cadastrado na base, Controle T.I 0 - 2024/11/05 17:58:53  Tecnico Claudio
+ Tentativa de add Monitor 1684 no PC 2812  recusado !  motivo , equip ja cadastrado na base, Controle T.I 0 - 2024/11/05 18:02:42  Tecnico Claudio
+ Tentativa de add Monitor 1684 no PC 2812  recusado !  motivo , equip ja cadastrado na base, Controle T.I 0 - 2024/11/05 18:02:56  Tecnico Claudio
+ Tentativa de add Monitor 1684 no PC 2812  recusado !  motivo , equip ja cadastrado na base, Controle T.I 0 - 2024/11/05 18:03:20  Tecnico Claudio
+ Tentativa de add Monitor 1684 no PC 2812  recusado !  motivo , equip ja cadastrado na base, Controle T.I 0 - 2024/11/05 18:05:30  Tecnico Claudio
+ Tentativa de add Monitor (unico) 2814 no PC 2812  recusado !  motivo ,  , Controle T.I 0 - 2024/11/05 18:21:06  Tecnico Claudio
+ Tentativa de add Monitor (unico) 2814 no PC 2812  recusado !  motivo , Campo Vazio , Controle T.I 0 - 2024/11/05 18:21:46  Tecnico Claudio
+ Tentativa de add Monitor (unico)  no PC 2812  recusado !  motivo , Campo Vazio , Controle T.I 0 - 2024/11/05 18:25:25  Tecnico Claudio
+ Tentativa de add Monitor (unico) 1684 no PC 2812  recusado !  motivo ,  ja foi Cadastrado no sistema  anteriormente , Controle T.I 0 - 2024/11/05 18:25:37  Tecnico Claudio
+ Tentativa de add Monitor (unico) 1684 no PC 2812  recusado !  motivo ,  ja foi Cadastrado no sistema  anteriormente , Controle T.I 0 - 2024/11/05 18:26:19  Tecnico Claudio
+ Tentativa de add Monitor (D)     no PC 2816  recusado !  motivo , equip ja cadastrado na base ou CTI em branco  - 2024/11/05 18:27:45  Tecnico Claudio
+ Tentativa de add Monitor(t1)   recusado no PC (2816) !  motivo , equip ja cadastrado na base  - 2024/11/05 18:27:54  Tecnico Claudio
+ Tentativa de add Monitor (D)110 114    no PC 2816  recusado !  motivo , equip ja cadastrado na base ou CTI em branco  - 2024/11/05 19:05:46  Tecnico Claudio
+ Tentativa de add Monitor (T)110 114    no PC 2816  recusado !  motivo , equip ja cadastrado na base  - 2024/11/05 19:06:02  Tecnico Claudio
+ Tentativa de add Monitor (T)1684 114    no PC 2816  recusado !  motivo , equip ja cadastrado na base  - 2024/11/05 19:06:27  Tecnico Claudio
+ Tentativa de add Monitor (T)1684 114    no PC 2816  recusado !  motivo , equip ja cadastrado na base  - 2024/11/05 19:06:35  Tecnico Claudio
+ Tentativa de add Monitor (T)1684 114    no PC 2816  recusado !  motivo , equip ja cadastrado na base  - 2024/11/05 19:08:22  Tecnico Claudio
+ Tentativa de add Monitor (unico)  no PC 2818  recusado !  motivo , Campo Vazio , Controle T.I 0 - 2024/11/05 19:11:45  Tecnico Claudio
+ Tentativa de add Monitor (unico) 110 no PC 2818  recusado !  motivo ,  ja foi Cadastrado no sistema  anteriormente , Controle T.I 0 - 2024/11/05 19:12:09  Tecnico Claudio
+ Tentativa de add Monitor (D)     no PC 2820  recusado !  motivo , equip ja cadastrado na base ou CTI em branco  - 2024/11/05 19:13:25  Tecnico Claudio
+ Tentativa de add Monitor (D)110     no PC 2820  recusado !  motivo , equip ja cadastrado na base ou CTI em branco  - 2024/11/05 19:13:39  Tecnico Claudio
+ Tentativa de add Monitor (D)110 121    no PC 2820  recusado !  motivo , equip ja cadastrado na base ou CTI em branco  - 2024/11/05 19:13:56  Tecnico Claudio
+ Tentativa de add Monitor (D1)2820  recusado no PC (2820) !  motivo , equip ja cadastrado na base  - 2024/11/05 19:14:59  Tecnico Claudio
+ Tentativa de add Monitor(t1)   recusado no PC (2821) !  motivo , equip ja cadastrado na base  - 2024/11/06 12:20:01  Tecnico Claudio
+ Tentativa de add Monitor(t1)   recusado no PC (2822) !  motivo , equip ja cadastrado na base  - 2024/11/06 13:24:38  Tecnico Claudio
+ Tentativa de add Monitor(t1)   recusado no PC (2823) !  motivo , equip ja cadastrado na base  - 2024/11/06 13:25:13  Tecnico Claudio
+ Tentativa de add Monitor(t1)   recusado no PC (2824) !  motivo , equip ja cadastrado na base  - 2024/11/06 13:30:13  Tecnico Claudio
+ Tentativa de add Monitor(t1)   recusado no PC (2825) !  motivo , equip ja cadastrado na base  - 2024/11/06 13:45:53  Tecnico Claudio
+ Tentativa de add Monitor(t1)   recusado no PC (2826) !  motivo , equip ja cadastrado na base  - 2024/11/06 13:49:24  Tecnico Claudio
+ Tentativa de add Monitor (T) no PC 2826  recusado !  motivo , equip ja cadastrado na base  - 2024/11/06 14:07:51  Tecnico Claudio
+ Tentativa de add Monitor (T) no PC 2826  recusado !  motivo , equip ja cadastrado na base  - 2024/11/06 14:08:09  Tecnico Claudio
+ Tentativa de add Monitor (T) no PC 2826  recusado !  motivo , equip ja cadastrado na base  - 2024/11/06 14:08:17  Tecnico Claudio
+ Tentativa de add Monitor (T) no PC 2826  recusado !  motivo , equip ja cadastrado na base  - 2024/11/06 14:10:47  Tecnico Claudio
+ Tentativa de add Monitor (T)147  no PC 2826  recusado !  motivo , equip ja cadastrado na base  - 2024/11/06 14:11:37  Tecnico Claudio
+ Tentativa de add Monitor (T)147 149  no PC 2826  recusado !  motivo , equip ja cadastrado na base  - 2024/11/06 14:11:57  Tecnico Claudio
+ Tentativa de add Monitor (T)147 149 110  no PC 2826  recusado !  motivo , equip ja cadastrado na base  - 2024/11/06 14:12:17  Tecnico Claudio
+ Tentativa de add Monitor (T)147 149 110  no PC 2826  recusado !  motivo , equip ja cadastrado na base  - 2024/11/06 14:12:39  Tecnico Claudio
+ Tentativa de add Monitor (T)3000 3001  no PC 2826  recusado !  motivo , equip ja cadastrado na base  - 2024/11/06 14:17:17  Tecnico Claudio
+ Tentativa de add Monitor (T) no PC 2827  recusado !  motivo , equip ja cadastrado na base  - 2024/11/06 14:21:06  Tecnico Claudio
+ Tentativa de add Monitor (T)110  no PC 2827  recusado !  motivo , equip ja cadastrado na base  - 2024/11/06 14:21:25  Tecnico Claudio
+ Tentativa de add Monitor (T)110 114  no PC 2827  recusado !  motivo , equip ja cadastrado na base  - 2024/11/06 14:21:40  Tecnico Claudio
+ Tentativa de add Monitor (T)110 114 3000  no PC 2827  recusado !  motivo , equip ja cadastrado na base  - 2024/11/06 14:21:51  Tecnico Claudio
+ Tentativa de add Monitor (T)3001 114 3000  no PC 2827  recusado !  motivo , equip ja cadastrado na base  - 2024/11/06 14:22:31  Tecnico Claudio
+ Tentativa de add Monitor(t1)   recusado no PC (2827) !  motivo , equip ja cadastrado na base  - 2024/11/06 14:22:43  Tecnico Claudio
+ Tentativa de add Monitor (T) no PC 2828  recusado !  motivo , equip ja cadastrado na base  - 2024/11/06 14:49:31  Tecnico Claudio
+ Tentativa de add Monitor (T) no PC 2828  recusado !  motivo , equip ja cadastrado na base  - 2024/11/06 14:49:41  Tecnico Claudio
+ Tentativa de add Monitor (T) no PC 2828  recusado !  motivo , equip ja cadastrado na base  - 2024/11/06 14:49:51  Tecnico Claudio
+ Tentativa de add Monitor (T)2831 2832 110  no PC 2830  recusado !  motivo , equip ja cadastrado na base  - 2024/11/06 14:53:40  Tecnico Claudio
+ Tentativa de add Monitor (T)2831 2832 2833  no PC 2830  recusado !  motivo , equip ja cadastrado na base  - 2024/11/06 14:55:06  Tecnico Claudio
+ Tentativa de add Monitor (T)2831 2832 2834  no PC 2830  recusado !  motivo , equip ja cadastrado na base  - 2024/11/06 14:55:42  Tecnico Claudio
+ Tentativa de add Monitor (D)     no PC 2835  recusado !  motivo , equip ja cadastrado na base ou CTI em branco  - 2024/11/06 15:01:30  Tecnico Claudio
+ Tentativa de add Monitor (D)2836 110    no PC 2835  recusado !  motivo , equip ja cadastrado na base ou CTI em branco  - 2024/11/06 15:02:32  Tecnico Claudio
+ Tentativa de add Monitor (T)2831 2832 2834  no PC 2830  recusado !  motivo , equip ja cadastrado na base  - 2024/11/06 15:07:03  Tecnico Claudio
+ Tentativa de add Monitor (D)2831 2832    no PC 2830  recusado !  motivo , equip ja cadastrado na base ou CTI em branco  - 2024/11/06 15:10:25  Tecnico Claudio
+ Tentativa de add Monitor (D)2831 2832    no PC 2830  recusado !  motivo , equip ja cadastrado na base ou CTI em branco  - 2024/11/06 15:16:16  Tecnico Claudio
+ Tentativa de add Monitor (D)2831 2832    no PC 2830  recusado !  motivo , equip ja cadastrado na base ou CTI em branco  - 2024/11/06 15:16:43  Tecnico Claudio
+ Tentativa de add Monitor (D)2831 2832    no PC 2830  recusado !  motivo , equip ja cadastrado na base ou CTI em branco  - 2024/11/06 15:18:02  Tecnico Claudio
+ Tentativa de add Monitor (D)2831 2900    no PC 2830  recusado !  motivo , equip ja cadastrado na base ou CTI em branco  - 2024/11/06 15:18:46  Tecnico Claudio
+ Tentativa de add Monitor (D)2831 2900    no PC 2830  recusado !  motivo , equip ja cadastrado na base ou CTI em branco  - 2024/11/06 15:26:41  Tecnico Claudio
+ Tentativa de add Monitor (D)2831 2900    no PC 2830  recusado !  motivo , equip ja cadastrado na base ou CTI em branco  - 2024/11/06 15:27:25  Tecnico Claudio
+ Tentativa de add Monitor (T)2831 2900  no PC 2830  recusado !  motivo , equip ja cadastrado na base  - 2024/11/06 15:28:10  Tecnico Claudio
+ Tentativa de add Monitor (T)2831 2900  no PC 2830  recusado !  motivo , equip ja cadastrado na base  - 2024/11/06 15:28:52  Tecnico Claudio
+ Tentativa de add Monitor (T)2831 2900 110  no PC 2830  recusado !  motivo , equip ja cadastrado na base  - 2024/11/06 15:29:11  Tecnico Claudio
+ Tentativa de add Monitor (T)2831 2900 110  no PC 2830  recusado !  motivo , equip ja cadastrado na base  - 2024/11/06 15:30:02  Tecnico Claudio
+ Tentativa de add Monitor (T)2831 2900 110  no PC 2830  recusado !  motivo , equip ja cadastrado na base  - 2024/11/06 15:30:30  Tecnico Claudio
+ Tentativa de add Monitor (D)2831 2900 110   no PC 2830  recusado !  motivo , equip ja cadastrado na base ou CTI em branco  - 2024/11/06 15:30:42  Tecnico Claudio
+ Tentativa de add Monitor (D)2831 2900 110   no PC 2830  recusado !  motivo , equip ja cadastrado na base ou CTI em branco  - 2024/11/06 15:31:16  Tecnico Claudio
+ Tentativa de add Monitor (unico) 2831 no PC 2830  recusado !  motivo ,  ja foi Cadastrado no sistema  anteriormente , Controle T.I 2830 - 2024/11/06 15:31:31  Tecnico Claudio
+ Tentativa de add Dispositivo (noate)2830  recusado !  motivo , equip ja cadastrado na base  - 2025/01/14 20:59:07  Tecnico Claudio
+ Tentativa de add Dispositivo (noate)2830  recusado !  motivo , equip ja cadastrado na base  - 2025/01/14 21:01:21  Tecnico Claudio
+ Tentativa de add Dispositivo (noate)2849  recusado !  motivo , equip ja cadastrado na base  - 2025/01/15 18:08:48  Tecnico Claudio
+ Tentativa de add Monitor (unico)  no PC 4002  recusado !  motivo , Campo Vazio , Controle T.I 0 - 2025/02/14 19:07:20  Tecnico Claudio
+ Tentativa de add Monitor (unico)  no PC 4015  recusado !  motivo , Campo Vazio , Controle T.I 0 - 2025/02/21 16:51:25  Tecnico Claudio
+ Tentativa de add Monitor (unico)  no PC 4017  recusado !  motivo , Campo Vazio , Controle T.I 0 - 2025/02/21 16:53:16  Tecnico Claudio
+ Tentativa de add Monitor (unico)  no PC 4017  recusado !  motivo , Campo Vazio , Controle T.I 0 - 2025/02/21 16:55:04  Tecnico Claudio
+ Tentativa de add Monitor (unico)  no PC 4017  recusado !  motivo , Campo Vazio , Controle T.I 0 - 2025/02/21 17:09:54  Tecnico Claudio
+ Tentativa de add Monitor (unico)  no PC 4017  recusado !  motivo , Campo Vazio , Controle T.I 0 - 2025/02/21 17:16:07  Tecnico Claudio
+ Tentativa de add Monitor (unico)  no PC 4017  recusado !  motivo , Campo Vazio , Controle T.I 0 - 2025/02/21 17:20:41  Tecnico Claudio
+ Tentativa de add Monitor (unico)  no PC 4017  recusado !  motivo , Campo Vazio , Controle T.I 0 - 2025/02/21 17:20:41  Tecnico Claudio
+ Tentativa de add Monitor (unico)  no PC 4017  recusado !  motivo , Campo Vazio , Controle T.I 0 - 2025/02/21 17:23:11  Tecnico Claudio
+ Tentativa de add Monitor (unico)  no PC 4017  recusado !  motivo , Campo Vazio , Controle T.I 0 - 2025/02/21 17:23:54  Tecnico Claudio
+ Tentativa de add Monitor (unico)  no PC 4017  recusado !  motivo , Campo Vazio , Controle T.I 0 - 2025/02/21 17:32:54  Tecnico Claudio
+ Tentativa de add Monitor (unico)  no PC 4017  recusado !  motivo , Campo Vazio , Controle T.I 0 - 2025/02/21 17:33:39  Tecnico Claudio
+ Tentativa de add Dispositivo (note)3259  recusado !  motivo , equip ja cadastrado na base  - 2025/03/07 14:28:47  Tecnico Claudio

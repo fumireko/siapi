@@ -1,0 +1,45 @@
+Usuario Procuradoria    QR_ini : 1421  QR_final :1440 Data : 11/09/2024 14:53
+Usuario Procuradoria    QR_ini : 1441  QR_final :1460 Data : 11/09/2024 14:54
+Usuario Procuradoria    QR_ini : 1461  QR_final :1490 Data : 11/09/2024 14:55
+Usuario Procuradoria    QR_ini : 1491  QR_final :1499 Data : 11/09/2024 14:55
+Usuario Procuradoria    QR_ini : 1425  QR_final :1425 Data : 17/09/2024 12:35
+Usuario Luis    QR_ini : 1140  QR_final :1140 Data : 20/09/2024 11:33
+Usuario Matheus    QR_ini : 1600  QR_final :1650 Data : 25/09/2024 16:37
+Usuario Matheus    QR_ini : 1651  QR_final :1699 Data : 25/09/2024 16:38
+Usuario Matheus    QR_ini : 1700  QR_final :1750 Data : 03/10/2024 14:09
+Usuario Matheus    QR_ini : 1751  QR_final :1799 Data : 03/10/2024 14:10
+Usuario Labor    QR_ini : 1800  QR_final :1899 Data : 03/10/2024 14:12
+Usuario Labor    QR_ini : 1900  QR_final :1924 Data : 03/10/2024 14:30
+Usuario MatheusC  QR_Gerado (A): 1920 Data : 31/10/2024 11:10
+Usuario TI    QR_ini : 2200  QR_final :2400 Data : 01/11/2024 11:14
+Usuario MatheusC    QR_Gerado (A): 2516 Data : 02/12/2024 16:25
+Usuario MatheusC    QR_Gerado (A): 2516 Data : 02/12/2024 16:26
+Usuario MatheusC    QR_Gerado (A): 2516 Data : 02/12/2024 16:27
+Usuario MatheusC    QR_Gerado (A): 2516 Data : 02/12/2024 16:27
+Usuario MatheusC    QR_Gerado (A): 2516 Data : 02/12/2024 16:28
+Usuario MatheusC    QR_Gerado (A): 2516 Data : 02/12/2024 16:31
+Usuario matheusc    QR_ini : 2516  QR_final :2716 Data : 02/12/2024 16:32
+Usuario luisgs    QR_Gerado :  671 Data : 06/01/2025 13:46
+Usuario guilhermeam    QR_Gerado :  671 Data : 07/01/2025 12:34
+Usuario guilhermeam    QR_Gerado :  671 Data : 07/01/2025 12:36
+Usuario Airton    QR_ini : 2645  QR_final :2645 Data : 15/01/2025 19:38
+Usuario Airton    QR_ini : 2647  QR_final :2648 Data : 15/01/2025 19:45
+Usuario Airton    QR_ini : 2650  QR_final :2651 Data : 15/01/2025 19:50
+Usuario Estag Sede    QR_ini : 3001  QR_final :3049 Data : 20/01/2025 16:20
+Usuario Guilherme Sede    QR_ini : 3050  QR_final :3100 Data : 21/01/2025 13:40
+Usuario Guilherme Sede    QR_ini : 3101  QR_final :3150 Data : 21/01/2025 16:02
+
+Usuario ESTAG TESTE    QR_ini : 1535  QR_final :1540 Data : 23/01/2025 13:57
+Usuario estag teste    QR_ini : 1487  QR_final :1490 Data : 23/01/2025 14:03
+Usuario ESTAG TESTE    QR_ini : 1487  QR_final :1490 Data : 23/01/2025 14:05
+Usuario AILSON    QR_ini : 3102  QR_final :3103 Data : 04/02/2025 18:11
+Usuario AILSON    QR_ini : 3095  QR_final :3096 Data : 04/02/2025 18:12
+Usuario AILSON    QR_ini : 3072  QR_final :3072 Data : 04/02/2025 18:13
+Usuario AILSON    QR_ini : 3071  QR_final :3071 Data : 04/02/2025 18:14
+Usuario JEAN ( DANUNCIO) DATA : 16/01/2025 11:12    QR_ini : 2733  QR_final :2749 Data : 12-03-2025 09:37
+Usuario TESTE    QR_ini : 4800  QR_final :4802 Data : 13-03-2025 10:00
+Usuario TESTE    QR_ini : 4803  QR_final :4805 Data : 13-03-2025 10:02
+Usuario GUILHERME SEDE    QR_ini : 3510  QR_final :3525 Data : 19-03-2025 13:51
+Usuario  TESTE    QR_ini : 3550  QR_final :3555 Data : 25-03-2025 13:32
+Usuario TESTE    QR_ini : 3560  QR_final :3561 Data : 25-03-2025 13:38
+Usuario  TESTE    QR_ini : 2250  QR_final :2250 Data : 03-04-2025 13:59

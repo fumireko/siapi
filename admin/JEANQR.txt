@@ -1,0 +1,15 @@
+Usuario Jean    QR_ini : 1000  QR_final :1039 Data : 19/08/2024 13:40
+Usuario Jean    QR_ini : 1044  QR_final :1049 Data : 05/09/2024 11:29
+Usuario Jean    QR_ini : 1051  QR_final :1070 Data : 26/08/2024 16:55
+Usuario Jean    QR_ini : 1071  QR_final :1078 Data : 26/08/2024 19:16
+Usuario Jean    QR_ini : 1079  QR_final :1099 Data : 28/08/2024 15:40
+Usuario Jean    QR_ini : 1100  QR_final :1140 Data : 29/08/2024 16:15
+Usuario Jean    QR_ini : 1141  QR_final :1199 Data : 02/09/2024 18:53
+Usuario Jean    QR_ini : 1300  QR_final :1320 Data : 02/09/2024 18:57
+Usuario jean    QR_ini : 2401  QR_final :2410 Data : 01/11/2024 14:46
+Usuario jean    QR_ini : 2411  QR_final :2507 Data : 06/11/2024 12:04
+Usuario jean    QR_ini : 2508  QR_final :2640 Data : 14/11/2024 17:07
+Usuario jean    QR_ini : 288  QR_final :288 Data : 04/12/2024 12:09
+Usuario Jean (Ana Maria)    QR_ini : 2720  QR_final :2732 Data : 16/01/2025 11:10
+Usuario Jean (Danuncio)    QR_ini : 2733  QR_final :2749 Data : 16/01/2025 11:12
+Usuario Jean (Stocco)    QR_ini : 2750  QR_final :2770 Data : 16/01/2025 11:12

@@ -1,0 +1,99 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300');
+@import url('https://fonts.googleapis.com/css?family=Abel');
+
+
+.input_detalhes::-webkit-input-placeholder {
+    color: rgb(0, 0, 0) !important;
+    font-size: 18px;
+  }
+.input_detalhes::-moz-placeholder {
+color: rgb(0, 0, 0) !important;
+font-size: 18px;
+}
+.input_detalhes:-ms-input-placeholder {
+color: rgb(0, 0, 0) !important;
+font-size: 18px;
+}
+.input_detalhes::placeholder {
+color: rgb(0, 0, 0) !important;
+font-size: 18px;
+}
+
+.select_status select{
+    font-size: 18px;
+    height: 40px;
+}
+
+
+.menu{
+    background-image: linear-gradient(to right, #6e6e6e 0%, #304352 100%);
+}
+.usuario_logado{
+    text-transform: capitalize;
+    color: aliceblue;
+}
+
+.card{
+    padding: 10px 40px 40px 40px;
+    box-shadow: 3px 5px 10px #888888;
+    text-align: center;
+    margin-bottom: 10px !important;
+}
+.card h3{
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 1.8rem;
+    margin-bottom: 1rem;
+    color: rgb(58, 58, 58);
+}
+.card h2{
+    color: rgb(56, 56, 56);
+}
+
+.solicitacoes{
+    background-color:#4e887ec9;
+}
+.finalizadas{
+    background-color:#43e97acb;
+}
+
+.andamento{
+    background-color:#f9d523c9;
+}
+
+.pendentes{
+    background-color:#ff0808a2;
+}
+.tabela{
+    border: 1px solid rgb(177, 177, 177);
+}
+
+.detalhes_servico{
+    line-height: 2rem;
+    font-size: 1.2rem;
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+.erro{
+    text-align: center;
+    font-family: 'Abel', sans-serif;
+    color: #505357d2;
+    width: 70%;
+    float: right;
+}
+
+.erro h1{
+    font-size: 5rem;
+    font-weight: 500;
+}
+
+.erro h2{
+    margin-top: 2rem;
+    font-size: 3rem;
+    line-height: 4rem;
+    font-weight: 500;
+}
+.erroImg{
+    text-align: center;
+    width: 30%;
+    margin: 0;
+}
+

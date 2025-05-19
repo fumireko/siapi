@@ -1,0 +1,180 @@
+Usuario Jean    QR_ini : 1000  QR_final :1039 Data : 19/08/2024 13:40
+Usuario Helenildo    QR_ini : 1200  QR_final :1299 Data : 23/08/2024 21:47
+Usuario ccs    QR_ini : 1321  QR_final :1321 Data : 04/09/2024 16:22
+Usuario ccs    QR_ini : 1321  QR_final :1321 Data : 04/09/2024 16:23
+Usuario ccs    QR_ini : 1321  QR_final :1321 Data : 04/09/2024 16:23
+Usuario ccs    QR_ini : 1321  QR_final :1321 Data : 04/09/2024 16:24
+Usuario ccs    QR_ini : 1321  QR_final :1321 Data : 04/09/2024 16:24
+Usuario ccs    QR_ini : 1321  QR_final :1321 Data : 04/09/2024 16:24
+Usuario ccs    QR_ini : 1321  QR_final :1321 Data : 04/09/2024 16:24
+Usuario ccs    QR_ini : 1321  QR_final :1321 Data : 04/09/2024 16:24
+Usuario ccs    QR_ini : 1321  QR_final :1321 Data : 04/09/2024 16:25
+Usuario ccs    QR_ini : 1321  QR_final :1321 Data : 04/09/2024 16:25
+Usuario ccs    QR_ini : 1321  QR_final :1321 Data : 04/09/2024 16:25
+Usuario ccs    QR_ini : 1321  QR_final :1321 Data : 04/09/2024 16:25
+Usuario ccs    QR_ini : 1321  QR_final :1321 Data : 04/09/2024 16:26
+Usuario ccs    QR_ini : 1321  QR_final :1321 Data : 04/09/2024 16:26
+Usuario ccs    QR_ini : 1321  QR_final :1321 Data : 04/09/2024 16:27
+Usuario ccs    QR_ini : 1321  QR_final :1321 Data : 04/09/2024 16:27
+Usuario ccs    QR_ini : 1321  QR_final :1321 Data : 04/09/2024 16:32
+Usuario ccs    QR_ini : 1321  QR_final :1321 Data : 04/09/2024 16:32
+Usuario ccs    QR_ini : 1321  QR_final :1321 Data : 04/09/2024 16:34
+Usuario ccs    QR_ini : 1321  QR_final :1321 Data : 04/09/2024 16:35
+Usuario ccs    QR_ini : 1321  QR_final :1321 Data : 04/09/2024 16:35
+Usuario ccs    QR_ini : 1321  QR_final :1321 Data : 04/09/2024 16:35
+Usuario ccs    QR_ini : 1321  QR_final :1321 Data : 04/09/2024 16:38
+Usuario ccs    QR_ini : 1321  QR_final :1321 Data : 04/09/2024 16:41
+Usuario ccs    QR_ini : 1321  QR_final :1321 Data : 04/09/2024 16:41
+Usuario ccs    QR_ini : 1321  QR_final :1321 Data : 04/09/2024 16:42
+Usuario ccs    QR_ini : 1321  QR_final :1321 Data : 04/09/2024 16:43
+Usuario ccs    QR_ini : 1321  QR_final :1321 Data : 04/09/2024 16:43
+Usuario ccs    QR_ini : 1321  QR_final :1321 Data : 04/09/2024 16:43
+Usuario ccs    QR_ini : 1321  QR_final :1321 Data : 04/09/2024 16:46
+Usuario ccs    QR_ini : 1321  QR_final :1321 Data : 04/09/2024 16:46
+Usuario ccs    QR_ini : 1321  QR_final :1321 Data : 04/09/2024 16:52
+Usuario ccs    QR_ini : 1321  QR_final :1321 Data : 04/09/2024 16:52
+Usuario ccs    QR_ini : 1321  QR_final :1321 Data : 04/09/2024 16:53
+Usuario ccs    QR_ini : 1321  QR_final :1321 Data : 04/09/2024 16:54
+Usuario ccs    QR_ini : 1321  QR_final :1321 Data : 04/09/2024 16:55
+Usuario ccs    QR_ini : 1321  QR_final :1321 Data : 04/09/2024 16:56
+Usuario ccs    QR_ini : 1321  QR_final :1321 Data : 04/09/2024 16:56
+Usuario ccs    QR_ini : 1321  QR_final :1321 Data : 04/09/2024 16:56
+Usuario ccs    QR_ini : 1321  QR_final :1321 Data : 04/09/2024 16:58
+Usuario ccs    QR_ini : 1321  QR_final :1321 Data : 04/09/2024 16:59
+Usuario ccs    QR_ini : 1321  QR_final :1321 Data : 04/09/2024 16:59
+Usuario ccs    QR_ini : 1321  QR_final :1321 Data : 04/09/2024 17:00
+Usuario ccs    QR_ini : 1321  QR_final :1321 Data : 04/09/2024 17:07
+Usuario ccs    QR_ini : 1321  QR_final :1321 Data : 04/09/2024 17:08
+Usuario ccs    QR_ini : 1321  QR_final :1321 Data : 04/09/2024 17:10
+Usuario ccs    QR_ini : 1321  QR_final :1321 Data : 04/09/2024 17:11
+Usuario ccs    QR_ini : 1321  QR_final :1321 Data : 04/09/2024 17:11
+Usuario ccs    QR_ini : 1321  QR_final :1325 Data : 04/09/2024 17:11
+Usuario ccs    QR_ini : 300  QR_final :302 Data : 04/09/2024 18:37
+Usuario Eduardo    QR_ini : 1470  QR_final :1470 Data : 18/09/2024 21:27
+Usuario teste    QR_ini : 2000  QR_final :2010 Data : 18/10/2024 13:19
+Usuario teste    QR_ini : 2000  QR_final :2010 Data : 18/10/2024 13:29
+Usuario teste    QR_ini : 2000  QR_final :2010 Data : 18/10/2024 13:29
+Usuario teste    QR_ini : 2000  QR_final :2010 Data : 18/10/2024 13:30
+Usuario teste    QR_ini : 2000  QR_final :2010 Data : 18/10/2024 13:31
+Usuario teste    QR_ini : 2000  QR_final :2010 Data : 18/10/2024 13:31
+Usuario teste    QR_ini : 2000  QR_final :2010 Data : 18/10/2024 14:13
+Usuario teste    QR_ini : 2000  QR_final :2010 Data : 18/10/2024 14:15
+Usuario teste    QR_ini : 2000  QR_final :2010 Data : 18/10/2024 14:17
+Usuario teste    QR_ini : 2000  QR_final :2010 Data : 18/10/2024 14:18
+Usuario teste    QR_ini : 2000  QR_final :2010 Data : 18/10/2024 14:19
+Usuario teste    QR_ini : 2000  QR_final :2010 Data : 18/10/2024 14:20
+Usuario teste    QR_ini : 2000  QR_final :2010 Data : 18/10/2024 14:20
+Usuario teste    QR_ini : 2000  QR_final :2010 Data : 18/10/2024 14:23
+Usuario teste    QR_ini : 2000  QR_final :2010 Data : 18/10/2024 14:23
+Usuario teste    QR_ini : 2000  QR_final :2010 Data : 18/10/2024 14:24
+Usuario teste    QR_ini : 250  QR_final :250 Data : 30/10/2024 16:31
+Usuario     QR_Gerado : 8792 Data : 30/10/2024 19:33
+Usuario     QR_Gerado : 8792 Data : 30/10/2024 19:33
+Usuario claudio    QR_Gerado : 8792 Data : 30/10/2024 19:34
+Usuario claudio    QR_Gerado : 2508 Data : 30/10/2024 19:36
+Usuario claudio    QR_Gerado : 2201 Data : 01/11/2024 12:24
+Usuario claudio    QR_Gerado : 2201 Data : 01/11/2024 12:25
+Usuario claudio    QR_Gerado : 2201 Data : 01/11/2024 12:25
+Usuario claudio    QR_Gerado : 2201 Data : 01/11/2024 12:25
+Usuario claudio    QR_Gerado : 2201 Data : 01/11/2024 12:27
+Usuario claudio    QR_Gerado : 2201 Data : 01/11/2024 12:27
+Usuario claudio    QR_Gerado : 2201 Data : 01/11/2024 12:27
+Usuario claudio    QR_Gerado : 2201 Data : 01/11/2024 12:27
+Usuario claudio    QR_Gerado : 2201 Data : 01/11/2024 12:28
+Usuario claudio    QR_Gerado : 2201 Data : 01/11/2024 12:29
+Usuario claudio    QR_Gerado : 2201 Data : 01/11/2024 12:29
+Usuario claudio    QR_Gerado : 2201 Data : 01/11/2024 12:29
+Usuario claudio    QR_Gerado : 2201 Data : 01/11/2024 12:31
+Usuario claudio    QR_Gerado : 2201 Data : 01/11/2024 12:35
+Usuario  teste    QR_ini : 2201  QR_final :2215 Data : 01/11/2024 12:35
+Usuario  teste    QR_ini : 2201  QR_final :2215 Data : 01/11/2024 12:40
+Usuario  teste    QR_ini : 2201  QR_final :2400 Data : 01/11/2024 12:42
+Usuario  teste    QR_ini : 2201  QR_final :2400 Data : 01/11/2024 12:45
+Usuario  teste    QR_ini : 2201  QR_final :2400 Data : 01/11/2024 12:48
+Usuario  teste    QR_ini : 2201  QR_final :2400 Data : 01/11/2024 12:49
+Usuario  teste    QR_ini : 2201  QR_final :2400 Data : 01/11/2024 12:51
+Usuario  teste    QR_ini : 2201  QR_final :2400 Data : 01/11/2024 12:52
+Usuario  teste    QR_ini : 2201  QR_final :2400 Data : 01/11/2024 12:57
+Usuario  teste    QR_ini : 2201  QR_final :2299 Data : 01/11/2024 13:33
+Usuario  teste    QR_ini : 2201  QR_final :2299 Data : 01/11/2024 13:34
+Usuario  teste    QR_ini : 2201  QR_final :2299 Data : 01/11/2024 13:38
+Usuario  teste    QR_ini : 2201  QR_final :2299 Data : 01/11/2024 13:39
+Usuario  teste    QR_ini : 2201  QR_final :2230 Data : 01/11/2024 13:40
+Usuario  teste    QR_ini : 2201  QR_final :2230 Data : 01/11/2024 13:42
+Usuario  teste    QR_ini : 2201  QR_final :2250 Data : 01/11/2024 13:44
+Usuario  teste    QR_ini : 2201  QR_final :2250 Data : 01/11/2024 14:03
+Usuario  teste    QR_ini : 2201  QR_final :2240 Data : 01/11/2024 14:05
+Usuario  teste    QR_ini : 2201  QR_final :2240 Data : 01/11/2024 14:06
+Usuario  teste    QR_ini : 2201  QR_final :2240 Data : 01/11/2024 14:08
+Usuario claudio    QR_Gerado (A): 8792 Data : 01/11/2024 14:18
+Usuario claudio    QR_Gerado :  135 Data : 01/11/2024 15:51
+Usuario claudio    QR_Gerado :  135 Data : 01/11/2024 15:52
+Usuario claudio    QR_Gerado :  1352 Data : 01/11/2024 15:54
+Usuario claudio    QR_Gerado :  1352 Data : 01/11/2024 15:55
+Usuario claudio    QR_Gerado :  1352 Data : 01/11/2024 15:55
+Usuario claudio    QR_Gerado :  1352 Data : 01/11/2024 15:55
+Usuario claudio    QR_Gerado :  1352 Data : 01/11/2024 15:55
+Usuario claudio    QR_Gerado :  1352 Data : 01/11/2024 15:55
+Usuario claudio    QR_Gerado :  1352 Data : 01/11/2024 15:55
+Usuario claudio    QR_Gerado :  1352 Data : 01/11/2024 15:55
+Usuario claudio    QR_Gerado :  1352 Data : 01/11/2024 15:56
+Usuario claudio    QR_Gerado :  1352 Data : 01/11/2024 15:56
+Usuario claudio    QR_Gerado :  1352 Data : 01/11/2024 15:56
+Usuario claudio    QR_Gerado :  1352 Data : 01/11/2024 15:56
+Usuario claudio    QR_Gerado :  1352 Data : 01/11/2024 15:56
+Usuario claudio    QR_Gerado :  135 Data : 01/11/2024 15:56
+Usuario claudio    QR_Gerado :  135 Data : 01/11/2024 15:57
+Usuario claudio    QR_Gerado :  135 Data : 01/11/2024 15:57
+Usuario claudio    QR_Gerado :  135 Data : 01/11/2024 15:57
+Usuario claudio    QR_Gerado :  135 Data : 01/11/2024 15:57
+Usuario claudio    QR_Gerado :  135 Data : 01/11/2024 15:57
+Usuario claudio    QR_Gerado :  1352 Data : 01/11/2024 15:57
+Usuario claudio    QR_Gerado :  1352 Data : 01/11/2024 15:58
+Usuario claudio    QR_Gerado :  1352 Data : 01/11/2024 15:58
+Usuario claudio    QR_Gerado :  1352 Data : 01/11/2024 15:58
+Usuario claudio    QR_Gerado :  1352 Data : 01/11/2024 15:59
+Usuario claudio    QR_Gerado :  1352 Data : 01/11/2024 16:00
+Usuario claudio    QR_Gerado :  1352 Data : 01/11/2024 16:00
+Usuario claudio    QR_Gerado :  13521 Data : 01/11/2024 16:00
+Usuario claudio    QR_Gerado :  1352 Data : 01/11/2024 16:00
+Usuario claudio    QR_Gerado :  13521 Data : 01/11/2024 16:00
+Usuario claudio    QR_Gerado :  1352 Data : 01/11/2024 16:00
+Usuario claudio    QR_Gerado :  135 Data : 01/11/2024 16:00
+Usuario claudio    QR_Gerado :  1352 Data : 01/11/2024 16:00
+Usuario claudio    QR_Gerado :  135 Data : 01/11/2024 16:00
+Usuario claudio    QR_Gerado :  135 Data : 01/11/2024 16:00
+Usuario claudio    QR_Gerado :  500 Data : 08/11/2024 12:30
+Usuario teste    QR_ini : 2641  QR_final :2642 Data : 15/01/2025 15:25
+Usuario teste    QR_ini : 2641  QR_final :2641 Data : 15/01/2025 15:26
+Usuario teste    QR_ini : 2641  QR_final :2641 Data : 15/01/2025 15:26
+Usuario teste    QR_ini : 2642  QR_final :2644 Data : 15/01/2025 15:27
+Usuario CLAUDIO    QR_ini : 1535  QR_final :1540 Data : 23/01/2025 13:51
+Usuario CLAUDIO    QR_ini : 1535  QR_final :1540 Data : 23/01/2025 13:56
+Usuario CLAUDIO    QR_ini : 1535  QR_final :1540 Data : 23/01/2025 13:56
+Usuario ESTAG TESTE    QR_ini : 1535  QR_final :1540 Data : 23/01/2025 13:57
+Usuario estag teste    QR_ini : 1487  QR_final :1490 Data : 23/01/2025 13:58
+Usuario estag teste    QR_ini : 1487  QR_final :1490 Data : 23/01/2025 14:00
+Usuario estag teste    QR_ini : 1487  QR_final :1490 Data : 23/01/2025 14:03
+Usuario ESTAG TESTE    QR_ini : 1487  QR_final :1490 Data : 23/01/2025 14:05
+Usuario AILSON    QR_ini : 3102  QR_final :3103 Data : 04/02/2025 18:11
+Usuario AILSON    QR_ini : 3095  QR_final :3096 Data : 04/02/2025 18:12
+Usuario AILSON    QR_ini : 3072  QR_final :3072 Data : 04/02/2025 18:13
+Usuario AILSON    QR_ini : 3071  QR_final :3071 Data : 04/02/2025 18:14
+Usuario CLAUDIO    QR_ini : 3500  QR_final :3510 Data : 11/03/2025 19:47
+Usuario CLAUDIO    QR_ini : 3500  QR_final :3510 Data : 11/03/2025 19:47
+Usuario CLAUDIO    QR_ini : 3500  QR_final :3510 Data : 11/03/2025 19:51
+Usuario CLAUDIO    QR_ini : 3500  QR_final :3505 Data : 11/03/2025 19:51
+Usuario CLAUDIO    QR_ini : 3500  QR_final :3503 Data : 11/03/2025 19:53
+Usuario CLAUDIO    QR_ini : 3500  QR_final :3503 Data : 11/03/2025 19:53
+Usuario CLAUDIO    QR_ini : 3501  QR_final :3503 Data : 11-03-2025 15:59
+Usuario CLAUDIO    QR_ini : 3501  QR_final :3503 Data : 11-03-2025 15:59
+Usuario CLAUDIO    QR_ini : 3501  QR_final :3503 Data : 11-03-2025 16:03
+Usuario JEAN ( DANUNCIO) DATA : 16/01/2025 11:12    QR_ini : 2733  QR_final :2749 Data : 12-03-2025 09:37
+Usuario TESTE    QR_ini : 4800  QR_final :4802 Data : 13-03-2025 10:00
+Usuario TESTE    QR_ini : 4803  QR_final :4805 Data : 13-03-2025 10:02
+Usuario CLAUDIO    QR_ini : 2400  QR_final :2400 Data : 13-03-2025 16:17
+Usuario CLAUDIO    QR_ini : 3400  QR_final :3400 Data : 13-03-2025 16:21
+Usuario GUILHERME SEDE    QR_ini : 3510  QR_final :3525 Data : 19-03-2025 13:51
+Usuario  TESTE    QR_ini : 3550  QR_final :3555 Data : 25-03-2025 13:32
+Usuario TESTE    QR_ini : 3560  QR_final :3561 Data : 25-03-2025 13:38
+Usuario  TESTE    QR_ini : 2250  QR_final :2250 Data : 03-04-2025 13:59

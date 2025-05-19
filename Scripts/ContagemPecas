@@ -1,0 +1,7 @@
+SELECT tbequi_modelomemoria,
+tbequi_tbcmei_id, 
+tbcmei_id, tbcmei_nome, COUNT(*) 
+FROM tbequip
+Inner join tbcmei
+ON tbcmei.tbcmei_id = tbequip.tbequi_tbcmei_id
+where tbequi_modelomemoria = 'DDR3' GROUP by tbcmei_nome;

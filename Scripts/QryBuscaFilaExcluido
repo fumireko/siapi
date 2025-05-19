@@ -1,0 +1,18 @@
+ SELECT tbaluno.tbaluno_id,
+            tbaluno.tbaluno_nome, 
+            tbaluno.tbaluno_dtnasc,
+            tbexcluido.tbexcluido_id,
+            tbexcluido.tbexcluido_dta,
+            tbexcluido.tbexcluido_iduser,
+            tbexcluido.tbexcluido_motivo,
+            tbexcluido.tbexcluido_idaluno,
+            tbexcluido.tbexcluido_idcmei,
+            tbexcluido.tbexcluido_idfila,
+             tbcmei.tbcmei_id,
+            tbcmei.tbcmei_nome
+             FROM tbaluno INNER JOIN tbexcluido 
+             ON tbaluno.tbaluno_id = tbexcluido.tbexcluido_idaluno
+             inner JOIN tbcmei 
+             on tbexcluido.tbexcluido_idcmei = tbcmei.tbcmei_id
+             where tbexcluido.tbexcluido_idaluno = '22582'
+             

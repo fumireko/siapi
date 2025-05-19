@@ -1,0 +1,23 @@
+Usuario Claudio QR_ini : 1040  QR_final :1043 Data : 26/08/2024 12:26
+Usuario Claudio    QR_ini : 1321  QR_final :1399 Data : 05/09/2024 11:31
+Usuario Claudio    QR_ini : 1400  QR_final :1420 Data : 06/09/2024 11:08
+Usuario claudio    QR_ini : 1500  QR_final :1500 Data : 18/09/2024 18:42
+Usuario CLAUDIO    QR_ini : 1501  QR_final :1550 Data : 18/09/2024 19:02
+Usuario CLAUDIO    QR_ini : 1551  QR_final :1599 Data : 18/09/2024 19:03
+Usuario claudio   QR_Gerado : 1919 Data : 30/10/2024 18:37
+Usuario claudio   QR_Gerado : 1920 Data : 30/10/2024 18:37
+Usuario Claudio    QR_ini : 2641  QR_final :2644 Data : 15/01/2025 13:59
+   QR_ini : 1535  QR_final :1540 Data : 23/01/2025 13:51
+   QR_ini : 1535  QR_final :1540 Data : 23/01/2025 13:56
+   QR_ini : 1535  QR_final :1540 Data : 23/01/2025 13:56
+   QR_ini : 3500  QR_final :3510 Data : 11/03/2025 19:47
+   QR_ini : 3500  QR_final :3510 Data : 11/03/2025 19:47
+   QR_ini : 3500  QR_final :3510 Data : 11/03/2025 19:51
+   QR_ini : 3500  QR_final :3505 Data : 11/03/2025 19:51
+   QR_ini : 3500  QR_final :3503 Data : 11/03/2025 19:53
+   QR_ini : 3500  QR_final :3503 Data : 11/03/2025 19:53
+   QR_ini : 3501  QR_final :3503 Data : 11-03-2025 15:59
+   QR_ini : 3501  QR_final :3503 Data : 11-03-2025 15:59
+   QR_ini : 3501  QR_final :3503 Data : 11-03-2025 16:03
+   QR_ini : 2400  QR_final :2400 Data : 13-03-2025 16:17
+   QR_ini : 3400  QR_final :3400 Data : 13-03-2025 16:21

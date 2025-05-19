@@ -1,0 +1,3 @@
+ $campos= $status." - ".$ctrl_ti." - ".$plaqueta." - ".$nome_pc. "  ".." - ".$tipo_equip." - ".$monitor_tipo." - ".$processador." - ".$so." - ".$so_arq',
+'$placamae." - ".$mem_tam." - ".$mem_slot." - ".$mem_slot_uso." - ".$mem_tipo." - ".$arm_tam." - ".$arm_tipo." - ".$arm_sectipo." - ".$arm_sectam." - ".$hoje." - ".teclado." - ".mouse." - ".filtro." - ".$nome_usuario." - ".$id_sec." - ".$id_loc',now(),
+'$app_outros." - ".$apps." - ".$processador." - ".$obs." - ".$ref_equip', '$lacre." - ".$video_saida." - ".$video_portas_uso." - ".$fonte_inst." - ".$util_qtd." - ".$util_nomes." - ".$responsavel." - ".$mon_qtd." - ".$obsvid." - ".$mon_hist." - ".$reserva." - ".$local_cad');

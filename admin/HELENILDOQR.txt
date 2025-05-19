@@ -1,0 +1,5 @@
+Usuario Helenildo QR_ini : 1200  QR_final :1299 Data : 23/08/2024 21:47
+Usuario Helenildo Saude    QR_ini : 1925  QR_final :1999 Data : 15/10/2024 12:08
+Usuario Helenildo QR_ini : 2000  QR_final :2100 Data : 30/10/2024 15:13
+Usuario helenildo QR_Gerado (A): 1920 Data : 31/10/2024 12:24
+Usuario Helenildo    QR_ini : 2855  QR_final :3000 Data : 10/12/2024 16:27

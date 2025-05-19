@@ -1,0 +1,3 @@
+O Script fila_geral prepara uma lista de basica dos alunos no banco
+
+O Script viradasDeTurma_2018_2019 é o mais recente para fazer a virada de ano no banco de dados

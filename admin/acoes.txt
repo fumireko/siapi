@@ -1,0 +1,1257 @@
+  1654  13/09/2024 15:06:58   Usuario Claudio   ::1/::1/WKS2209273.DCCOLOMBO.STI
+  1654  13/09/2024 15:06:58   Usuario Claudio   ::1/::1/WKS2209273.DCCOLOMBO.STI
+IMI   CTI 1657  Data  13/09/2024 18:28:07   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+ITI   CTI 1657  Data  13/09/2024 18:28:07   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+IMO   CTI 187  Data  13/09/2024 18:28:07   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+ITI   CTI 187  Data  13/09/2024 18:28:07   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+IMO   CTI 1684  Data  13/09/2024 18:55:32   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+ITA   CTI 1685  Data  13/09/2024 18:57:43   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+ITV   CTI 1686  Data  13/09/2024 18:59:17   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+ISW   CTI 1688  Data  13/09/2024 18:59:59   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+IRA   CTI 1689  Data  13/09/2024 19:00:45   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+IPP   CTI 1690  Data  13/09/2024 19:01:03   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+IMP   CTI 1691  Data  13/09/2024 19:01:31   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Rem_PC.Exc   CTI 171  Data  16/09/2024 18:25:24   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Atv_PC.Exc   CTI 171  Data  16/09/2024 18:25:49   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Alt_PC   CTI 162  Data  16/09/2024 18:36:29   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Rem_PC.Exc   CTI 163  Data  16/09/2024 19:25:35   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Atv_PC.Exc   CTI 163  Data  16/09/2024 19:26:56   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Alt_PC   CTI 163  Data  16/09/2024 19:34:13   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Rem_M.Exc   CTI 183  Data  16/09/2024 20:10:12   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Atv_M.Exc   CTI 183  Data  16/09/2024 20:28:24   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+ALT_DesV_MO   CTI 183  Data  16/09/2024 20:31:20   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Vinc_M_0   CTI 351  Data  16/09/2024 20:48:53   Usuario claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Rem_M.Exc   CTI 351  Data  16/09/2024 20:48:53   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Atv_M.Exc   CTI 351  Data  16/09/2024 20:59:43   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Vinc_M_0   CTI 351  Data  16/09/2024 21:00:04   Usuario claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Rem_M.Exc   CTI 351  Data  16/09/2024 21:00:04   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Atv_M.Exc   CTI 351  Data  16/09/2024 21:12:25   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Vinc_M_0   CTI 351  Data  16/09/2024 21:12:44   Usuario claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Rem_M.Exc   CTI 351  Data  16/09/2024 21:12:44   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Atv_M.Exc   CTI 351  Data  16/09/2024 21:14:54   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Vinc_M_0   CTI 351  Data  16/09/2024 21:15:05   Usuario claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Rem_M.Exc   CTI 351  Data  16/09/2024 21:15:05   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Nome   CTI   mon  Data  18/09/2024 21:14:35   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+In_notif   CTI titulo  Data  18/09/2024 21:37:11   Usuario teste  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+EXC_mon   CTI 117  Data  18/09/2024 21:42:16   Usuario   Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+EXC_falha   CTI 117  Data  18/09/2024 21:42:16   Usuario   Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+EXC_mon   CTI 117  Data  18/09/2024 21:46:28   Usuario   Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+EXC_falha   CTI 117  Data  18/09/2024 21:46:28   Usuario   Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+EXC_mon   CTI 101  Data  18/09/2024 21:48:30   Usuario GESTOR  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+EXC_falha   CTI 101  Data  18/09/2024 21:48:30   Usuario GESTOR  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+EXC_mon   CTI 101  Data  18/09/2024 21:51:13   Usuario GESTOR  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+In_notif   CTI  teste  Data  18/09/2024 21:54:27   Usuario  teste  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI     Data  18/09/2024 22:06:01   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_resumo   CTI   101  Data  19/09/2024 14:14:07   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Data   CTI   2024/09  Data  19/09/2024 14:19:47   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI     Data  19/09/2024 15:35:42   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Sequencial   CTI     Data  20/09/2024 15:02:08   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Sequencial1   CTI Campo Vazio   Data  20/09/2024 15:02:15   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+IMI   CTI 1698  Data  20/09/2024 18:40:21   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+I_T.I.   CTI 1698  Data  20/09/2024 18:40:21   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+IMI   CTI 1974  Data  23/09/2024 19:18:04   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+IMI   CTI 1974  Data  23/09/2024 19:21:58   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+IMI   CTI 1974  Data  23/09/2024 19:23:21   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+IMI   CTI 1741  Data  24/09/2024 13:42:23   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Visual   CTI     Data  26/09/2024 18:22:27   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Visual1   CTI Campo Vazio   Data  26/09/2024 18:22:33   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Visual1   CTI Campo Vazio   Data  26/09/2024 18:23:28   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Local_Cod   CTI   17  Data  26/09/2024 22:15:34   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Local_Cod   CTI   17  Data  26/09/2024 22:16:20   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Local_Cod   CTI   17  Data  26/09/2024 22:17:33   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Local_Cod   CTI   17  Data  26/09/2024 22:26:58   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Local_Cod   CTI   17  Data  26/09/2024 22:59:26   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Local_Cod   CTI   17  Data  26/09/2024 23:00:39   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Local_Cod   CTI   17  Data  26/09/2024 23:01:54   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Local_Cod   CTI   17  Data  26/09/2024 23:02:08   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Local_Cod   CTI   17  Data  26/09/2024 23:03:03   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Local_Cod   CTI   17  Data  26/09/2024 23:03:25   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Local_Cod   CTI   17  Data  26/09/2024 23:03:54   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Local_Cod   CTI   17  Data  26/09/2024 23:07:20   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Local_Cod   CTI   17  Data  26/09/2024 23:25:36   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Local_Cod   CTI   17  Data  26/09/2024 23:25:46   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Local_Cod   CTI   17  Data  26/09/2024 23:26:52   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Local_Cod   CTI   17  Data  26/09/2024 23:32:15   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Local_Cod   CTI   17  Data  26/09/2024 23:32:39   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI   17  Data  26/09/2024 23:33:27   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Local_Cod   CTI   17  Data  26/09/2024 23:33:35   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Local_Cod   CTI   17  Data  26/09/2024 23:39:17   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Local_Cod   CTI   17  Data  26/09/2024 23:39:35   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Local_Cod   CTI   17  Data  26/09/2024 23:42:31   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Local_Cod   CTI   17  Data  26/09/2024 23:42:54   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Local_Cod   CTI   17  Data  26/09/2024 23:45:26   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Local_Cod   CTI   17  Data  26/09/2024 23:45:38   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Local_Cod   CTI   17  Data  26/09/2024 23:46:42   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Local_Cod   CTI   17  Data  26/09/2024 23:50:13   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Local_Cod   CTI   17  Data  26/09/2024 23:50:41   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Local_Cod   CTI   17  Data  26/09/2024 23:51:34   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Local_Cod   CTI   17  Data  27/09/2024 00:04:06   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Local_Cod   CTI   17  Data  27/09/2024 13:26:09   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Local   CTI   tec  Data  27/09/2024 14:30:25   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Unidade   CTI 752  Data  27/09/2024 14:30:31   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Local   CTI   sms  Data  27/09/2024 14:30:51   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Unidade   CTI 783  Data  27/09/2024 14:30:58   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Local   CTI   tecn  Data  27/09/2024 14:31:09   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Unidade   CTI 601  Data  27/09/2024 14:31:14   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Local_Cod   CTI   601  Data  27/09/2024 14:31:30   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Local   CTI   tecno  Data  27/09/2024 14:32:46   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Unidade   CTI 207  Data  27/09/2024 14:32:53   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Local   CTI   tecn  Data  27/09/2024 14:33:19   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Unidade   CTI 207  Data  27/09/2024 14:33:26   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Local_Cod   CTI   217  Data  27/09/2024 14:33:47   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Local_Cod   CTI   217  Data  27/09/2024 14:34:24   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Local   CTI gabin  Data  27/09/2024 14:34:52   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Unidade   CTI 169  Data  27/09/2024 14:34:58   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Local   CTI   gabin  Data  27/09/2024 14:35:08   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Unidade   CTI 156  Data  27/09/2024 14:35:19   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Unidade   CTI 156  Data  27/09/2024 14:37:54   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Local   CTI   gabinete  Data  27/09/2024 14:39:16   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Unidade   CTI 156  Data  27/09/2024 14:39:22   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI     Data  27/09/2024 14:39:36   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI     Data  27/09/2024 15:21:06   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI     Data  27/09/2024 15:21:39   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI     Data  27/09/2024 15:25:21   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI     Data  27/09/2024 15:54:17   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI     Data  30/09/2024 13:50:45   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_swi   CTI     Data  30/09/2024 14:24:21   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_rack   CTI     Data  30/09/2024 14:24:25   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_swi   CTI     Data  30/09/2024 14:24:33   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_pat   CTI     Data  30/09/2024 14:24:36   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_mon_0   CTI     Data  30/09/2024 14:24:46   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_mon_1   CTI     Data  30/09/2024 14:24:59   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_mon_1   CTI     Data  30/09/2024 14:25:18   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_mon_2   CTI     Data  30/09/2024 14:25:31   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_mon_1   CTI     Data  30/09/2024 14:25:55   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_mon_2   CTI     Data  30/09/2024 14:25:59   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_mon_1   CTI     Data  30/09/2024 14:26:19   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI     Data  30/09/2024 14:27:17   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_mon_2   CTI     Data  30/09/2024 14:27:33   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_mon_2   CTI     Data  30/09/2024 14:29:40   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_mon_2   CTI     Data  30/09/2024 14:30:01   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_mon_2   CTI     Data  30/09/2024 14:30:52   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_mon_1   CTI     Data  30/09/2024 14:30:56   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_mon_2   CTI     Data  30/09/2024 14:31:00   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_mon_2   CTI     Data  30/09/2024 14:31:50   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_mon_2   CTI     Data  30/09/2024 14:31:53   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_mon_2   CTI     Data  30/09/2024 14:33:27   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_mon_2   CTI     Data  30/09/2024 14:35:15   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_mon_2   CTI     Data  30/09/2024 14:37:44   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_mon_1   CTI     Data  30/09/2024 14:37:59   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_mon_0   CTI     Data  30/09/2024 14:38:03   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_mon_2   CTI     Data  30/09/2024 14:38:10   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_mon_1   CTI     Data  30/09/2024 14:38:16   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_mon_1   CTI     Data  30/09/2024 14:38:41   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_mon_2   CTI     Data  30/09/2024 14:38:45   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_mon_2   CTI     Data  30/09/2024 14:54:14   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI     Data  30/09/2024 17:10:05   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_mon_0   CTI     Data  30/09/2024 17:10:31   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_mon_0   CTI     Data  30/09/2024 17:12:57   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_mon_0   CTI     Data  30/09/2024 17:13:55   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_mon_0   CTI     Data  30/09/2024 17:14:38   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_mon_0   CTI     Data  30/09/2024 17:14:45   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_mon_0   CTI     Data  30/09/2024 17:15:20   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_mon_0   CTI     Data  30/09/2024 18:36:40   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_mon_2   CTI     Data  30/09/2024 21:14:11   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_mon_1   CTI     Data  30/09/2024 21:14:17   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_mon_0   CTI     Data  30/09/2024 21:21:59   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_mon_0   CTI     Data  30/09/2024 21:25:05   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Rem_PC.Exc   CTI 1234562  Data  30/09/2024 21:48:40   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_mon_0   CTI     Data  30/09/2024 21:48:45   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_mon_0   CTI     Data  30/09/2024 21:51:01   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_pat   CTI     Data  01/10/2024 14:57:29   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_mon_0   CTI     Data  01/10/2024 14:57:34   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_mon_1   CTI     Data  01/10/2024 14:57:40   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_mon_1   CTI     Data  01/10/2024 14:57:47   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI     Data  01/10/2024 15:15:48   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Nome   CTI   tv  Data  01/10/2024 15:45:16   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Monitor_0   CTI     Data  01/10/2024 15:52:23   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Monitor_0   CTI     Data  01/10/2024 15:55:44   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Monitor_0   CTI     Data  01/10/2024 15:57:19   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Monitor_0   CTI     Data  01/10/2024 16:01:06   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Monitor_0   CTI     Data  01/10/2024 16:01:12   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Monitor_0   CTI     Data  01/10/2024 16:03:36   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Monitor_0   CTI     Data  01/10/2024 16:05:01   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Monitor_0   CTI     Data  01/10/2024 16:10:26   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Monitor_0   CTI     Data  01/10/2024 16:11:19   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Monitor_0   CTI     Data  01/10/2024 16:13:30   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Nome   CTI   monitor  Data  01/10/2024 16:13:49   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Nome   CTI   monitor  Data  01/10/2024 16:13:55   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Nome   CTI   dell  Data  01/10/2024 16:14:03   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Monitor_0   CTI     Data  01/10/2024 16:14:31   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_mon   CTI     Data  01/10/2024 16:14:46   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Monitor_0   CTI     Data  01/10/2024 16:15:14   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_mon   CTI     Data  01/10/2024 16:15:28   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_div   CTI     Data  01/10/2024 16:15:59   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Esp   CTI     Data  01/10/2024 16:23:54   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Esp   CTI     Data  01/10/2024 16:24:30   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Esp   CTI     Data  01/10/2024 16:24:53   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_mon   CTI     Data  01/10/2024 21:17:24   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_mon   CTI     Data  01/10/2024 21:17:58   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_mon   CTI     Data  01/10/2024 21:18:49   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_mon   CTI     Data  01/10/2024 21:19:25   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_mon   CTI     Data  01/10/2024 21:19:41   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_mon   CTI     Data  01/10/2024 21:23:42   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_mon   CTI     Data  01/10/2024 21:24:02   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_mon   CTI     Data  01/10/2024 21:24:20   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_mon   CTI     Data  01/10/2024 21:26:21   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_mon   CTI     Data  01/10/2024 21:27:08   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_mon   CTI     Data  01/10/2024 21:27:35   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_mon   CTI     Data  01/10/2024 21:28:10   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_mon   CTI     Data  01/10/2024 21:28:30   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_mon   CTI     Data  01/10/2024 21:30:05   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_mon   CTI     Data  01/10/2024 21:30:45   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_mon   CTI     Data  01/10/2024 21:34:36   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_mon   CTI     Data  01/10/2024 21:41:45   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_mon   CTI     Data  01/10/2024 21:42:16   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_mon   CTI     Data  01/10/2024 21:44:01   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_mon   CTI     Data  01/10/2024 21:44:19   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_mon   CTI     Data  01/10/2024 21:44:40   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_mon   CTI     Data  01/10/2024 21:46:12   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_mon   CTI     Data  01/10/2024 21:46:32   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_mon   CTI     Data  01/10/2024 21:47:18   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_mon   CTI     Data  01/10/2024 21:47:51   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_mon   CTI     Data  02/10/2024 13:15:44   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+IAP   CTI 2500  Data  02/10/2024 14:17:48   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI   2500  Data  02/10/2024 14:18:48   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+IAP   CTI 2501  Data  02/10/2024 14:57:29   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Nome   CTI   acess  Data  02/10/2024 14:59:24   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Visual   CTI     Data  02/10/2024 14:59:48   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Visual1   CTI Campo Vazio   Data  02/10/2024 14:59:57   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Secretaria   CTI     Data  02/10/2024 15:00:16   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Sec_esp   CTI 22  Data  02/10/2024 15:00:19   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Secretaria   CTI     Data  02/10/2024 15:12:58   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Secretaria   CTI     Data  02/10/2024 15:15:38   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Secretaria   CTI     Data  02/10/2024 15:26:44   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Secretaria   CTI     Data  02/10/2024 15:26:50   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Secretaria   CTI     Data  02/10/2024 15:28:03   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Secretaria   CTI     Data  02/10/2024 15:28:21   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Secretaria   CTI     Data  02/10/2024 15:29:19   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Sec_esp   CTI 35  Data  02/10/2024 15:29:34   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Secretaria   CTI     Data  02/10/2024 15:29:39   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Secretaria   CTI     Data  02/10/2024 15:30:33   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Secretaria   CTI     Data  02/10/2024 15:31:07   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Secretaria   CTI     Data  02/10/2024 15:31:25   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Sec_esp   CTI 38  Data  02/10/2024 15:31:32   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Local   CTI   obras  Data  02/10/2024 15:31:48   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Unidade   CTI 832  Data  02/10/2024 15:32:03   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Local   CTI   agric  Data  02/10/2024 15:32:11   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Unidade   CTI 224  Data  02/10/2024 15:32:17   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Local_Cod   CTI   gabinete  Data  02/10/2024 15:48:08   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Local   CTI   gabinete  Data  02/10/2024 15:48:16   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Unidade   CTI 169  Data  02/10/2024 15:48:31   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Local   CTI   tecno  Data  02/10/2024 15:51:52   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Unidade   CTI 17  Data  02/10/2024 15:52:01   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Unidade   CTI 17  Data  02/10/2024 15:52:57   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Unidade   CTI 17  Data  02/10/2024 15:53:21   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Unidade   CTI 17  Data  02/10/2024 15:54:51   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Unidade   CTI 17  Data  02/10/2024 15:55:13   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Unidade   CTI 17  Data  02/10/2024 15:56:01   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Unidade   CTI 17  Data  02/10/2024 15:56:32   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Unidade   CTI 17  Data  02/10/2024 15:56:56   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Unidade   CTI 17  Data  02/10/2024 16:01:05   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Local   CTI   tecno  Data  02/10/2024 16:20:40   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Unidade   CTI 17  Data  02/10/2024 16:20:45   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Local_Cod   CTI   17  Data  02/10/2024 16:21:02   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Local   CTI   tecno  Data  02/10/2024 16:21:37   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Unidade   CTI 17  Data  02/10/2024 16:21:42   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Unidade   CTI 17  Data  02/10/2024 16:22:51   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Local_Cod   CTI   17  Data  02/10/2024 16:26:06   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Local_Cod   CTI   17  Data  02/10/2024 16:32:38   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Local_Cod   CTI   17  Data  02/10/2024 16:33:47   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Local_Cod   CTI   17  Data  02/10/2024 16:34:25   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI   Data  02/10/2024 18:40:45   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI   Data  02/10/2024 19:16:14   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI   Data  02/10/2024 19:20:16   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI   Data  02/10/2024 19:22:18   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI   Data  02/10/2024 19:23:02   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI   Data  02/10/2024 19:23:28   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI   Data  02/10/2024 19:24:15   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI   Data  02/10/2024 19:24:27   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI   Data  02/10/2024 19:28:35   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI   Data  02/10/2024 19:29:08   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI   Data  02/10/2024 19:29:31   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI   Data  02/10/2024 19:32:25   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI   Data  02/10/2024 19:32:53   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI   Data  02/10/2024 19:34:12   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI   Data  02/10/2024 19:35:33   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI   Data  02/10/2024 19:37:38   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI   Data  02/10/2024 19:38:28   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI   170  Data  02/10/2024 19:41:07   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI   170  Data  02/10/2024 19:41:26   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI   170  Data  02/10/2024 19:41:58   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI   170  Data  02/10/2024 19:42:22   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI     Data  02/10/2024 19:42:26   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI   171  Data  02/10/2024 19:42:35   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI     Data  02/10/2024 19:42:54   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI     Data  02/10/2024 19:48:20   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI     Data  02/10/2024 20:08:55   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI     Data  02/10/2024 20:09:43   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI     Data  02/10/2024 20:10:35   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI     Data  02/10/2024 20:17:59   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI     Data  02/10/2024 20:21:20   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI     Data  02/10/2024 20:26:16   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI     Data  02/10/2024 20:28:49   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI     Data  02/10/2024 20:29:17   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI     Data  02/10/2024 20:29:23   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI     Data  02/10/2024 20:30:36   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI     Data  02/10/2024 20:31:29   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI     Data  02/10/2024 20:37:02   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI     Data  02/10/2024 20:37:21   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI     Data  02/10/2024 20:38:03   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI     Data  02/10/2024 20:40:23   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI     Data  02/10/2024 20:40:43   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI     Data  02/10/2024 20:45:05   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI     Data  02/10/2024 20:47:19   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI     Data  02/10/2024 20:47:40   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI     Data  02/10/2024 20:47:54   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI     Data  02/10/2024 20:49:06   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI     Data  02/10/2024 20:50:08   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI     Data  02/10/2024 20:52:20   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI     Data  02/10/2024 20:53:45   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI     Data  02/10/2024 20:57:51   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI     Data  02/10/2024 20:58:09   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI     Data  02/10/2024 21:11:17   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI     Data  02/10/2024 21:12:14   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+INOB   CTI 2523  Data  03/10/2024 15:18:28   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+IMOD_B   CTI 2504  Data  03/10/2024 15:25:19   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Nome   CTI   modulo  Data  03/10/2024 15:26:02   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+IMOD_B   CTI 2505  Data  03/10/2024 15:30:56   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI   2504  Data  03/10/2024 15:39:53   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI   2505  Data  03/10/2024 15:39:59   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Nome   CTI   modulo  Data  03/10/2024 15:40:08   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI   2505  Data  03/10/2024 15:42:24   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI   2505  Data  03/10/2024 15:43:05   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI   2503  Data  03/10/2024 15:43:20   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI   101  Data  03/10/2024 15:43:28   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Nome   CTI   swi  Data  03/10/2024 15:43:36   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI   125  Data  03/10/2024 15:43:42   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI 2505  Data  03/10/2024 15:43:50   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI   2505  Data  03/10/2024 15:44:11   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI   2505  Data  03/10/2024 15:47:15   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Nome   CTI   modu  Data  03/10/2024 15:53:13   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI     Data  03/10/2024 15:53:22   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI     Data  03/10/2024 15:54:12   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI     Data  03/10/2024 15:54:44   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI     Data  03/10/2024 15:57:35   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Nome   CTI   mod  Data  03/10/2024 16:03:28   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Nome   CTI   mod  Data  03/10/2024 16:03:43   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI   2505  Data  03/10/2024 16:03:55   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Resumo   CTI   2505  Data  03/10/2024 16:04:02   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Resumo   CTI   2523  Data  03/10/2024 16:04:14   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Local   CTI   tecn  Data  03/10/2024 16:05:02   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Unidade   CTI 17  Data  03/10/2024 16:05:14   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI 2505  Data  03/10/2024 16:34:38   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Secretaria   CTI     Data  03/10/2024 16:35:39   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Sec_esp   CTI 33  Data  03/10/2024 16:35:46   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Nome   CTI   nob  Data  03/10/2024 18:24:08   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI     Data  08/10/2024 18:55:45   Usuario   Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI     Data  08/10/2024 18:56:14   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI     Data  08/10/2024 18:57:55   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI     Data  08/10/2024 18:59:21   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+ICONT_W   CTI 1800  Data  14/10/2024 13:32:52   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI   1800  Data  14/10/2024 13:33:13   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI   1800  Data  14/10/2024 13:44:09   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI   1800  Data  14/10/2024 13:45:11   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI   1800  Data  14/10/2024 13:45:55   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI   1800  Data  14/10/2024 13:57:43   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI   1800  Data  14/10/2024 14:00:55   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI   1800  Data  14/10/2024 14:03:56   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI   1800  Data  14/10/2024 14:05:37   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Nome   CTI   cont  Data  14/10/2024 14:12:14   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI   1500  Data  14/10/2024 14:12:47   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Nome   CTI   note  Data  14/10/2024 14:12:55   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI   1800  Data  14/10/2024 14:13:45   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Alt_Tv   CTI 1800  Data  14/10/2024 14:18:11   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI   1800  Data  14/10/2024 14:19:14   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Alt_Tv   CTI 1800  Data  14/10/2024 14:19:40   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Alt_Cont_wifi   CTI 1800  Data  14/10/2024 14:27:29   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI   1800  Data  14/10/2024 14:29:21   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI   1500  Data  14/10/2024 14:31:17   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Nome   CTI   note  Data  14/10/2024 14:31:24   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI   1800  Data  14/10/2024 14:32:37   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI   1800  Data  14/10/2024 14:41:18   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI 1800  Data  14/10/2024 14:41:53   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI 1800    Data  14/10/2024 14:44:41   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI 1800    Data  14/10/2024 14:49:34   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Nome   CTI   contr  Data  14/10/2024 19:51:43   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_mon_1   CTI     Data  14/10/2024 20:17:49   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_mon_2   CTI     Data  14/10/2024 20:18:09   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI   1800  Data  15/10/2024 13:15:32   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Nome   CTI   nob  Data  15/10/2024 13:18:49   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Alt_Tv   CTI 2523  Data  15/10/2024 13:18:59   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Nome   CTI nobr  Data  15/10/2024 13:22:57   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Alt_nobb   CTI 2523  Data  15/10/2024 13:23:04   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Alt_nobb   CTI 2523  Data  15/10/2024 13:24:13   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Nome   CTI   nob  Data  15/10/2024 13:24:24   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Nome   CTI   patch  Data  15/10/2024 15:45:27   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Nome   CTI tv  Data  15/10/2024 15:45:56   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_mon_1   CTI     Data  15/10/2024 16:14:06   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_mon_0   CTI     Data  15/10/2024 16:14:42   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Monitor_0   CTI     Data  15/10/2024 16:16:21   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Monitor_0   CTI     Data  15/10/2024 16:19:11   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_mon   CTI     Data  15/10/2024 16:19:58   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+IMI   CTI 1801  Data  15/10/2024 19:01:55   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+I_T.I.   CTI 1801  Data  15/10/2024 19:01:55   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+IMO.d   CTI   Data  15/10/2024 19:01:55   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+IMO.d   CTI   Data  15/10/2024 19:01:55   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+IMI   CTI 1802  Data  16/10/2024 17:02:38   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+I_T.I.   CTI 1802  Data  16/10/2024 17:02:38   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+IMO   CTI 1803  Data  16/10/2024 17:02:38   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+I_T.I.mo   CTI 1803  Data  16/10/2024 17:02:38   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI   1805  Data  16/10/2024 18:39:20   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+IMI   CTI 1804  Data  16/10/2024 19:00:51   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+I_T.I.   CTI 1804  Data  16/10/2024 19:00:51   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+IMO   CTI 1805  Data  16/10/2024 19:00:51   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+I_T.I.mo   CTI 1805  Data  16/10/2024 19:00:51   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+IMI   CTI 1806  Data  16/10/2024 19:02:51   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+I_T.I.   CTI 1806  Data  16/10/2024 19:02:51   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+IMO.d   CTI 1807  Data  16/10/2024 19:02:51   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+IMO.d   CTI 1808  Data  16/10/2024 19:02:51   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+IMI   CTI 1809  Data  16/10/2024 19:17:21   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+I_T.I.   CTI 1809  Data  16/10/2024 19:17:21   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+IMO   CTI 1810  Data  16/10/2024 19:17:21   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+I_T.I.mo   CTI 1810  Data  16/10/2024 19:17:21   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_bco_mon   CTI     Data  17/10/2024 13:48:30   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_bco_mon   CTI     Data  17/10/2024 13:48:50   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_bco_mon   CTI     Data  17/10/2024 13:49:24   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_bco_mon   CTI     Data  17/10/2024 13:49:40   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_bco_mon   CTI     Data  17/10/2024 13:50:18   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_bco_mon   CTI     Data  17/10/2024 13:51:15   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_bco_mon   CTI     Data  17/10/2024 13:52:41   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_bco_div   CTI     Data  17/10/2024 13:57:45   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_bco_div   CTI     Data  17/10/2024 13:58:24   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_bco_div   CTI     Data  17/10/2024 13:59:08   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_bco_div   CTI     Data  17/10/2024 13:59:26   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_bco_div   CTI     Data  17/10/2024 14:00:19   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_bco_div   CTI     Data  17/10/2024 14:01:15   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_bco_div   CTI     Data  17/10/2024 14:03:55   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_bco_div   CTI     Data  17/10/2024 14:05:12   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_bco_cti   CTI     Data  17/10/2024 14:09:31   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_bco_cti   CTI     Data  17/10/2024 14:09:53   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_bco_equi   CTI     Data  17/10/2024 14:39:21   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_bco_equi   CTI     Data  17/10/2024 14:40:05   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_bco_equi   CTI     Data  17/10/2024 14:42:52   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_bco_equi   CTI     Data  17/10/2024 14:43:39   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_bco_equi   CTI     Data  17/10/2024 14:45:04   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Id   CTI   621  Data  17/10/2024 18:10:04   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Id   CTI 22  Data  17/10/2024 18:10:19   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI   Data  17/10/2024 18:10:30   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI   621  Data  17/10/2024 18:19:08   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Excluidos   CTI     Data  17/10/2024 18:19:14   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_bco_rel   CTI     Data  17/10/2024 18:29:27   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_bco_rel   CTI     Data  17/10/2024 18:29:58   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_bco_rel   CTI     Data  17/10/2024 18:30:51   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_bco_rel   CTI     Data  17/10/2024 18:32:29   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_bco_rel   CTI     Data  17/10/2024 18:39:11   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_bco_rel   CTI     Data  17/10/2024 18:39:45   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_bco_rel   CTI     Data  17/10/2024 18:41:02   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_bco_rel   CTI     Data  17/10/2024 18:44:23   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_bco_rel   CTI     Data  17/10/2024 18:44:42   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_bco_rel   CTI     Data  17/10/2024 18:45:32   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_bco_rel   CTI     Data  17/10/2024 18:54:07   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_bco_rel   CTI     Data  17/10/2024 18:55:16   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_bco_rel   CTI     Data  17/10/2024 18:56:20   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI     Data  17/10/2024 18:57:18   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_bco_rel   CTI     Data  17/10/2024 18:58:34   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Id   CTI   2371  Data  17/10/2024 19:07:33   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_bco_rel   CTI     Data  17/10/2024 19:18:40   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_bco_rel   CTI     Data  17/10/2024 19:19:24   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_bco_rel   CTI     Data  17/10/2024 19:19:41   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_bco_rel   CTI     Data  18/10/2024 14:32:41   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_bco_rel   CTI     Data  18/10/2024 14:33:10   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_bco_mon   CTI     Data  18/10/2024 14:35:16   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_bco_mon   CTI     Data  18/10/2024 14:35:45   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Tb_mon   CTI 11    Data  18/10/2024 14:36:17   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Secretaria   CTI   gab  Data  21/10/2024 13:48:34   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Sec_esp   CTI 22  Data  21/10/2024 13:48:38   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Sec_esp   CTI 22  Data  21/10/2024 13:49:06   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Secretaria   CTI   gab  Data  21/10/2024 13:49:21   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Sec_esp   CTI 22  Data  21/10/2024 13:49:24   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Sec_esp   CTI 22  Data  21/10/2024 13:50:15   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Secretaria   CTI   gab  Data  21/10/2024 13:52:38   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Sec_esp   CTI 22  Data  21/10/2024 13:52:42   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Secretaria   CTI     Data  21/10/2024 14:05:50   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Sec_esp   CTI 22  Data  21/10/2024 14:05:54   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Sec_esp   CTI 22  Data  21/10/2024 14:07:06   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Sec_esp   CTI 22  Data  21/10/2024 14:08:15   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Sec_esp   CTI 22  Data  21/10/2024 14:09:28   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Secretaria   CTI     Data  21/10/2024 14:14:51   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Sec_esp   CTI 22  Data  21/10/2024 14:14:54   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Secretaria   CTI     Data  21/10/2024 14:15:55   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Sec_esp   CTI 22  Data  21/10/2024 14:15:58   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Local_Cod   CTI   416  Data  21/10/2024 14:23:45   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI   465  Data  21/10/2024 14:23:51   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Secretaria   CTI     Data  21/10/2024 14:25:23   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Sec_esp   CTI 22  Data  21/10/2024 14:25:26   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+IMI   CTI 1811  Data  21/10/2024 14:52:25   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+I_T.I.   CTI 1811  Data  21/10/2024 14:52:25   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+IMO.d   CTI 1812  Data  21/10/2024 14:52:25   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+IMO.d   CTI 1813  Data  21/10/2024 14:52:25   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Data   CTI 2024/10/21  Data  21/10/2024 15:08:14   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Data   CTI 2024/10/21  Data  21/10/2024 15:11:54   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Data   CTI 2024/10/21  Data  21/10/2024 15:12:23   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+IMI   CTI 1814  Data  21/10/2024 18:14:37   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+I_T.I.   CTI 1814  Data  21/10/2024 18:14:37   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+IMO.d   CTI 1815  Data  21/10/2024 18:14:37   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+IMO.d   CTI 1816  Data  21/10/2024 18:14:37   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Excluidos   CTI   Data  21/10/2024 18:18:55   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Nome   CTI   no  Data  22/10/2024 15:18:29   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI 2523    Data  22/10/2024 15:21:43   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_mon_2   CTI     Data  22/10/2024 18:19:48   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_mon_1   CTI     Data  22/10/2024 18:27:37   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+IMI   CTI 2050  Data  30/10/2024 13:56:48   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+I_T.I.   CTI 2050  Data  30/10/2024 13:56:48   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI   1000  Data  30/10/2024 16:04:54   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI   215  Data  30/10/2024 16:04:59   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI   250  Data  30/10/2024 16:05:04   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI   250  Data  01/11/2024 15:50:55   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI 215  Data  01/11/2024 15:51:07   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI   200  Data  01/11/2024 15:51:12   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI   199  Data  01/11/2024 15:51:19   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI   210  Data  01/11/2024 15:51:26   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Nome   CTI   note  Data  01/11/2024 15:51:33   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+IMI   CTI 2687  Data  05/11/2024 12:58:03   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+I_T.I.   CTI 2687  Data  05/11/2024 12:58:03   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+IMI   CTI 2802  Data  05/11/2024 13:01:12   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+I_T.I.   CTI 2802  Data  05/11/2024 13:01:12   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+IpcM1_rec   CTI   Data  05/11/2024 13:01:12   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+IMI   CTI 2803  Data  05/11/2024 13:08:01   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+I_T.I.   CTI 2803  Data  05/11/2024 13:08:01   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+IpcM1_rec   CTI   Data  05/11/2024 13:08:01   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+IMI   CTI 2804  Data  05/11/2024 13:10:30   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+I_T.I.   CTI 2804  Data  05/11/2024 13:10:30   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+IpcM1_rec   CTI   Data  05/11/2024 13:10:30   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+IMI   CTI 2805  Data  05/11/2024 13:29:29   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+I_T.I.   CTI 2805  Data  05/11/2024 13:29:29   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+IpcM1_rec   CTI   Data  05/11/2024 13:29:29   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+IMI   CTI 2806  Data  05/11/2024 13:30:58   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+I_T.I.   CTI 2806  Data  05/11/2024 13:30:58   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+IpcM1_rec   CTI   Data  05/11/2024 13:30:58   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI   1841  Data  05/11/2024 14:00:10   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI   1641  Data  05/11/2024 14:00:18   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Monitor_0   CTI     Data  05/11/2024 14:00:23   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+IMI   CTI 2807  Data  05/11/2024 14:01:17   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+I_T.I.   CTI 2807  Data  05/11/2024 14:01:17   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+IMI   CTI 2808  Data  05/11/2024 14:03:57   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+I_T.I.   CTI 2808  Data  05/11/2024 14:03:57   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI 2808    Data  05/11/2024 14:07:48   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+IMI   CTI 2809  Data  05/11/2024 14:52:00   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+I_T.I.   CTI 2809  Data  05/11/2024 14:52:00   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+IpcM1_rec_vazio   CTI   Data  05/11/2024 14:52:00   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+IMI   CTI 2810  Data  05/11/2024 17:48:09   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+I_T.I.   CTI 2810  Data  05/11/2024 17:48:09   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI 2810    Data  05/11/2024 17:48:27   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI   2811  Data  05/11/2024 17:48:32   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI   2809  Data  05/11/2024 17:48:38   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI   2808  Data  05/11/2024 17:48:44   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI   210  Data  05/11/2024 17:48:52   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI   1684  Data  05/11/2024 17:49:00   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+IMI   CTI 2811  Data  05/11/2024 17:51:09   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+I_T.I.   CTI 2811  Data  05/11/2024 17:51:09   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+IpcM1_rec   CTI   Data  05/11/2024 17:51:09   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI   2811  Data  05/11/2024 17:52:19   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI   2812  Data  05/11/2024 17:54:25   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+IMI   CTI 2812  Data  05/11/2024 18:26:45   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+I_T.I.   CTI 2812  Data  05/11/2024 18:26:45   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+IMO   CTI 2815  Data  05/11/2024 18:26:45   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+I_T.I.mo   CTI 2815  Data  05/11/2024 18:26:45   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+IMI   CTI 2816  Data  05/11/2024 18:27:54   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+I_T.I.   CTI 2816  Data  05/11/2024 18:27:54   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+IpcM1_rec   CTI   Data  05/11/2024 18:27:54   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Nome   CTI   moni  Data  05/11/2024 19:05:18   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Monitor_0   CTI     Data  05/11/2024 19:05:22   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Monitor_0   CTI     Data  05/11/2024 19:07:04   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Monitor_0   CTI     Data  05/11/2024 19:07:11   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+IMI   CTI 2817  Data  05/11/2024 19:11:13   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+I_T.I.   CTI 2817  Data  05/11/2024 19:11:13   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+IMI   CTI 2818  Data  05/11/2024 19:12:27   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+I_T.I.   CTI 2818  Data  05/11/2024 19:12:27   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+IMO   CTI 2819  Data  05/11/2024 19:12:27   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+I_T.I.mo   CTI 2819  Data  05/11/2024 19:12:27   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+IMI   CTI 2820  Data  05/11/2024 19:14:59   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+I_T.I.   CTI 2820  Data  05/11/2024 19:14:59   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+IpcM1_rec   CTI 2820  Data  05/11/2024 19:14:59   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+IMI   CTI 2821  Data  06/11/2024 12:20:01   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+I_T.I.   CTI 2821  Data  06/11/2024 12:20:01   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+IpcM1_rec   CTI   Data  06/11/2024 12:20:01   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI   2820  Data  06/11/2024 12:20:26   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI   2821  Data  06/11/2024 12:20:40   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Local   CTI unico  Data  06/11/2024 13:19:30   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+IMI   CTI 2822  Data  06/11/2024 13:24:38   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+I_T.I.   CTI 2822  Data  06/11/2024 13:24:38   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+IpcM1_rec   CTI   Data  06/11/2024 13:24:38   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+IMI   CTI 2823  Data  06/11/2024 13:25:13   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+I_T.I.   CTI 2823  Data  06/11/2024 13:25:13   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+IpcM1_rec   CTI   Data  06/11/2024 13:25:13   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+IMI   CTI 2824  Data  06/11/2024 13:30:13   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+I_T.I.   CTI 2824  Data  06/11/2024 13:30:13   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+IpcM1_rec   CTI   Data  06/11/2024 13:30:13   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+IMI   CTI 2825  Data  06/11/2024 13:45:53   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+I_T.I.   CTI 2825  Data  06/11/2024 13:45:53   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+IpcM1_rec   CTI   Data  06/11/2024 13:45:53   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+IMI   CTI 2826  Data  06/11/2024 13:49:24   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+I_T.I.   CTI 2826  Data  06/11/2024 13:49:24   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+IpcM1_rec   CTI   Data  06/11/2024 13:49:24   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+IMI   CTI 2827  Data  06/11/2024 14:22:43   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+I_T.I.   CTI 2827  Data  06/11/2024 14:22:43   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+IpcM1_rec   CTI   Data  06/11/2024 14:22:43   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+IMI   CTI 2828  Data  06/11/2024 14:50:26   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+I_T.I.   CTI 2828  Data  06/11/2024 14:50:26   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+IMO.t   CTI 3000  Data  06/11/2024 14:50:26   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI   3000  Data  06/11/2024 14:51:46   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+IMI   CTI 2830  Data  06/11/2024 14:53:52   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+I_T.I.   CTI 2830  Data  06/11/2024 14:53:52   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+IMO.t   CTI 2831  Data  06/11/2024 14:53:52   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+IMO.t   CTI 2832  Data  06/11/2024 14:53:52   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+IMO.t   CTI 2833  Data  06/11/2024 14:53:52   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI   2831  Data  06/11/2024 14:59:20   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI   2835  Data  06/11/2024 15:01:59   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI   2336  Data  06/11/2024 15:03:08   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI   110  Data  06/11/2024 15:03:11   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI     Data  08/11/2024 12:15:05   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Alt_PC   CTI 500  Data  08/11/2024 12:15:25   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI 500    Data  08/11/2024 12:15:34   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Visual   CTI     Data  08/11/2024 12:31:44   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Visual1   CTI Campo Vazio   Data  08/11/2024 12:31:52   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+IPro   CTI Proc  Data  10/01/2025 18:59:05   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+IKN   CTI   Data  10/01/2025 19:02:39   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+I_kits   CTI Note  Data  10/01/2025 19:02:39   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+IMI   CTI 123447  Data  13/01/2025 12:17:34   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+I_T.I.   CTI 123447  Data  13/01/2025 12:17:34   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI 123447    Data  13/01/2025 12:17:53   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+IMI   CTI 13456  Data  13/01/2025 12:31:07   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Nome   CTI   chrome  Data  13/01/2025 12:38:35   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Secretaria   CTI     Data  13/01/2025 14:08:45   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Inote_rec   CTI 2830  Data  14/01/2025 20:59:07   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Inote_rec   CTI 2830  Data  14/01/2025 21:01:21   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+IMI   CTI 2837  Data  15/01/2025 12:18:13   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Nome   CTI   chrome  Data  15/01/2025 12:18:50   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI   2837  Data  15/01/2025 12:19:10   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+IMI   CTI 2838  Data  15/01/2025 14:34:33   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+IMI   CTI 2839  Data  15/01/2025 14:34:33   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+IMI   CTI 2840  Data  15/01/2025 18:02:13   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+IMI   CTI 2841  Data  15/01/2025 18:02:13   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+IMI   CTI 2842  Data  15/01/2025 18:02:13   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+IMI   CTI 2840  Data  15/01/2025 18:03:16   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+IMI   CTI 2841  Data  15/01/2025 18:03:16   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+IMI   CTI 2842  Data  15/01/2025 18:03:16   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+IMI   CTI 2844  Data  15/01/2025 18:07:43   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+IMI   CTI 2845  Data  15/01/2025 18:07:43   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+IMI   CTI 2846  Data  15/01/2025 18:07:43   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+IMI   CTI 2848  Data  15/01/2025 18:08:48   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+IMI   CTI 2849  Data  15/01/2025 18:08:48   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Inote_rec   CTI 2849  Data  15/01/2025 18:08:49   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+IMI   CTI 2850  Data  15/01/2025 18:08:49   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+IMI   CTI 2851  Data  15/01/2025 18:32:32   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+IMI   CTI 2852  Data  15/01/2025 18:32:32   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+IMI   CTI 2853  Data  15/01/2025 18:32:32   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+IMI   CTI 2854  Data  15/01/2025 18:32:32   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Nome   CTI   chrom  Data  15/01/2025 21:12:18   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI   2837  Data  15/01/2025 21:12:28   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Tecnicos   CTI   claudio  Data  15/01/2025 21:12:44   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI   2820  Data  20/01/2025 20:03:08   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI 2240  Data  20/01/2025 20:42:39   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI 1000  Data  21/01/2025 13:09:25   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI     Data  21/01/2025 13:09:28   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Secretaria   CTI     Data  22/01/2025 20:01:03   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Sec_esp   CTI 33  Data  22/01/2025 20:01:49   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Secretaria   CTI     Data  22/01/2025 20:11:07   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Sec_esp   CTI 33  Data  22/01/2025 20:11:14   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Secretaria   CTI     Data  22/01/2025 20:16:08   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Sec_esp   CTI 40  Data  22/01/2025 20:16:12   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_resp   CTI douglas    Data  23/01/2025 12:17:24   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_resp   CTI douglas    Data  23/01/2025 12:17:36   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Visual   CTI   1500  Data  23/01/2025 12:35:22   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Visual1   CTI Campo Vazio   Data  23/01/2025 12:35:28   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Visual   CTI     Data  23/01/2025 12:36:01   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Visual1   CTI Campo Vazio   Data  23/01/2025 12:36:07   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Visual1   CTI Campo Vazio   Data  23/01/2025 12:38:20   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Visual1   CTI Campo Vazio   Data  23/01/2025 12:39:56   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Local_Cod   CTI   953  Data  24/01/2025 14:42:40   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Local_Cod   CTI   650  Data  24/01/2025 14:43:37   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI     Data  24/01/2025 14:43:40   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Local_Cod   CTI   441  Data  24/01/2025 14:43:54   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Local_Cod   CTI  411  Data  24/01/2025 14:45:07   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI     Data  24/01/2025 14:45:10   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI     Data  24/01/2025 14:45:20   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Local_Cod   CTI 17  Data  24/01/2025 14:45:37   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Local_Cod   CTI 17  Data  24/01/2025 14:47:04   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI   Data  24/01/2025 15:14:19   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI   Data  24/01/2025 15:14:46   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI 1451  Data  24/01/2025 15:15:01   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI   1451  Data  24/01/2025 15:15:26   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI   1451  Data  24/01/2025 15:16:30   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI   1451  Data  24/01/2025 15:23:49   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI     Data  24/01/2025 15:23:55   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI     Data  29/01/2025 12:31:43   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI     Data  30/01/2025 14:36:01   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI  1450  Data  30/01/2025 17:25:11   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI   1450  Data  30/01/2025 17:31:52   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI     Data  30/01/2025 17:34:15   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI 1450    Data  30/01/2025 17:42:47   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI   1450  Data  30/01/2025 17:45:04   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI     Data  30/01/2025 18:11:50   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI   131  Data  30/01/2025 18:16:27   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI   1450  Data  30/01/2025 18:17:27   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI  1450   Data  30/01/2025 18:18:31   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI   Data  30/01/2025 18:18:45   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI  2050   Data  30/01/2025 18:19:54   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI 2050  Data  30/01/2025 18:20:55   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI 2050    Data  30/01/2025 18:30:13   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Alt_PC   CTI 2050  Data  30/01/2025 18:30:40   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI 2050    Data  30/01/2025 18:32:23   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI   2050  Data  30/01/2025 18:38:32   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI   1450  Data  30/01/2025 20:00:26   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI     Data  30/01/2025 20:02:55   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI     Data  30/01/2025 20:04:37   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI     Data  30/01/2025 20:05:31   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI     Data  30/01/2025 20:09:44   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI     Data  30/01/2025 20:39:33   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI     Data  30/01/2025 20:52:47   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI 2827    Data  30/01/2025 21:12:35   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI 2827    Data  31/01/2025 12:11:47   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI 2827    Data  31/01/2025 12:13:26   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI 2827    Data  31/01/2025 12:15:08   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI     Data  31/01/2025 12:53:10   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI     Data  31/01/2025 13:14:25   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+IMI   CTI 3071  Data  31/01/2025 19:44:07   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI     Data  03/02/2025 12:37:00   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Local_Cod   CTI   0  Data  03/02/2025 12:37:55   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI   1450  Data  03/02/2025 13:02:55   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI   1450  Data  03/02/2025 13:14:20   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI   1450  Data  03/02/2025 13:44:54   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Local_Cod   CTI   0  Data  03/02/2025 13:53:45   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI 1450    Data  03/02/2025 17:09:36   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI     Data  03/02/2025 17:55:03   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI 1698    Data  04/02/2025 13:15:03   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI 1698    Data  04/02/2025 13:17:49   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI 1698    Data  04/02/2025 13:25:34   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI 1698    Data  04/02/2025 13:27:07   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI     Data  04/02/2025 17:17:09   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI   987  Data  04/02/2025 17:23:56   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI  987  Data  04/02/2025 17:38:01   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI     Data  06/02/2025 18:09:45   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Data   CTI 2024-11  Data  10/02/2025 19:26:15   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI 2024-10  Data  10/02/2025 19:26:24   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Data   CTI 2024/11    Data  10/02/2025 19:26:32   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Data   CTI 2024/11    Data  10/02/2025 19:27:53   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Data   CTI 2024/11    Data  10/02/2025 19:29:25   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Data   CTI 2024/11    Data  10/02/2025 19:31:20   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Data   CTI 2024/11    Data  10/02/2025 19:43:39   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Data   CTI 2024/11    Data  10/02/2025 19:46:20   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Data   CTI 2024/11  Data  10/02/2025 20:08:41   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_mon   CTI   Data  11/02/2025 19:13:35   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI     Data  11/02/2025 19:13:47   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI     Data  11/02/2025 19:23:30   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_arm_tp   CTI  ssd   Data  12/02/2025 13:33:51   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_arm_tp   CTI  hd   Data  12/02/2025 13:34:57   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_arm_tp   CTI   ssd  Data  12/02/2025 13:36:41   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_arm_tp   CTI nve  Data  12/02/2025 13:38:49   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_arm_tp   CTI hd  Data  12/02/2025 13:39:06   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_arm_tam   CTI infer  Data  12/02/2025 13:50:43   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_arm_tam   CTI 512    Data  12/02/2025 13:50:59   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_arm_tam   CTI 512    Data  12/02/2025 13:51:09   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_arm_tam   CTI 512    Data  12/02/2025 13:51:44   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_arm_tam   CTI 512    Data  12/02/2025 13:52:05   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_pl_mae   CTI teste  Data  12/02/2025 13:52:19   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Plaqueta   CTI     Data  12/02/2025 14:10:51   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Plaqueta   CTI     Data  12/02/2025 14:11:21   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Plaqueta   CTI   1122  Data  12/02/2025 14:11:40   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_arm_tp   CTI ssd    Data  12/02/2025 14:13:28   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_proc   CTI teste    Data  12/02/2025 14:14:49   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Usuarios   CTI claudio  Data  12/02/2025 14:18:45   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Usuarios   CTI claudio  Data  12/02/2025 14:24:31   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Usuarios   CTI claudio  Data  12/02/2025 14:24:48   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Usuarios   CTI claudio  Data  12/02/2025 14:26:17   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Usuarios   CTI claudio  Data  12/02/2025 14:27:21   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Usuarios   CTI claudio  Data  12/02/2025 14:28:30   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Usuarios   CTI claudio  Data  12/02/2025 14:28:46   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Usuarios   CTI claudio  Data  12/02/2025 14:29:01   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_arm_tp   CTI hd  Data  12/02/2025 14:29:34   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_arm_tp   CTI hd  Data  12/02/2025 14:53:45   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_arm_tp   CTI ssd  Data  12/02/2025 14:53:53   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_arm_tp   CTI ssd  Data  12/02/2025 14:57:06   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_arm_tp   CTI hd  Data  12/02/2025 14:57:16   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI     Data  12/02/2025 14:59:05   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Alt_PC   CTI 171  Data  12/02/2025 14:59:28   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_arm_tp   CTI ssd    Data  12/02/2025 14:59:48   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_arm_tp   CTI ssd  Data  12/02/2025 15:02:16   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_arm_tp   CTI   SATA  Data  12/02/2025 15:55:30   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_arm_tp   CTI   SATA2  Data  12/02/2025 15:55:44   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI 171    Data  12/02/2025 16:09:35   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI   171  Data  12/02/2025 16:09:44   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI 171    Data  12/02/2025 16:09:52   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI 171    Data  12/02/2025 16:10:52   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI 171    Data  12/02/2025 16:11:40   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI 171    Data  12/02/2025 16:14:26   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI 171    Data  12/02/2025 16:15:19   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_arm_tam   CTI 256    Data  12/02/2025 16:16:00   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_arm_tam   CTI   512  Data  12/02/2025 16:16:11   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_proc   CTI   intel  Data  12/02/2025 16:16:22   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_mem_tp   CTI   ddr4  Data  12/02/2025 16:16:35   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_mem_tp   CTI   ddr  Data  12/02/2025 16:16:45   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_mem_tp   CTI   ddr4  Data  12/02/2025 16:16:56   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_mem_tp   CTI ddr  Data  12/02/2025 16:17:12   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_mem_tam   CTI 4  Data  12/02/2025 16:17:24   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_mem_tam   CTI     Data  12/02/2025 16:21:52   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI 171    Data  12/02/2025 18:13:23   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Nome   CTI   Data  12/02/2025 18:22:10   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Local   CTI     Data  12/02/2025 18:33:08   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Unidade   CTI 17  Data  12/02/2025 18:33:40   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Local   CTI sempit    Data  12/02/2025 18:37:19   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Local   CTI tec    Data  12/02/2025 18:37:49   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Unidade   CTI 601  Data  12/02/2025 18:37:59   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Local   CTI tecnologia   Data  12/02/2025 18:38:23   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Local   CTI sede  Data  12/02/2025 18:40:10   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Unidade   CTI 393  Data  12/02/2025 18:40:21   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Local   CTI sede    Data  12/02/2025 18:40:42   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Local_Cod   CTI 398  Data  12/02/2025 18:41:02   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Local_Cod   CTI   398  Data  12/02/2025 18:41:49   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Local_Cod   CTI   393  Data  12/02/2025 18:42:28   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Local   CTI santa  Data  12/02/2025 18:42:48   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Unidade   CTI 398  Data  12/02/2025 18:42:52   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Local   CTI   santa  Data  12/02/2025 18:46:02   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Unidade   CTI 398  Data  12/02/2025 18:46:05   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Local   CTI   santa  Data  12/02/2025 18:46:47   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Unidade   CTI 398  Data  12/02/2025 18:46:51   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Local_Cod   CTI 398  Data  12/02/2025 18:48:09   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Local_Cod   CTI 398  Data  12/02/2025 18:49:45   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Local_Cod   CTI 398  Data  12/02/2025 18:50:07   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Local_Cod   CTI 398  Data  12/02/2025 18:50:18   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Local   CTI tereza  Data  12/02/2025 18:50:55   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Unidade   CTI 398  Data  12/02/2025 18:50:58   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Local   CTI   tereza  Data  12/02/2025 18:53:23   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Unidade   CTI 398  Data  12/02/2025 18:53:31   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Local   CTI   tereza  Data  12/02/2025 18:56:41   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Unidade   CTI 398  Data  12/02/2025 18:56:45   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Local   CTI santa ter    Data  12/02/2025 18:58:22   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Unidade   CTI 398  Data  12/02/2025 18:58:27   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Local   CTI santa ter    Data  12/02/2025 19:00:09   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Unidade   CTI 398  Data  12/02/2025 19:00:15   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Local   CTI  santa  Data  12/02/2025 19:01:28   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Unidade   CTI 398  Data  12/02/2025 19:01:31   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Local   CTI  santa  Data  12/02/2025 19:01:56   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Unidade   CTI 398  Data  12/02/2025 19:02:02   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Local   CTI  santa  Data  12/02/2025 19:02:50   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Unidade   CTI 398  Data  12/02/2025 19:02:53   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Local   CTI  santa  Data  12/02/2025 19:04:43   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Unidade   CTI 398  Data  12/02/2025 19:04:48   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Local   CTI  santa  Data  12/02/2025 19:05:50   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Unidade   CTI 398  Data  12/02/2025 19:05:54   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Local   CTI  santa  Data  12/02/2025 19:06:31   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Unidade   CTI 398  Data  12/02/2025 19:06:34   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Unidade   CTI 398  Data  12/02/2025 19:07:51   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Local   CTI sede    Data  12/02/2025 19:08:44   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Unidade   CTI 783  Data  12/02/2025 19:08:48   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Local   CTI sede    Data  12/02/2025 19:08:54   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Unidade   CTI 393  Data  12/02/2025 19:09:00   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Local_Cod   CTI   398  Data  12/02/2025 19:09:16   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Local_Cod   CTI   398  Data  12/02/2025 19:10:48   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Local_Cod   CTI   398  Data  12/02/2025 19:11:25   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Local_Cod   CTI   398  Data  12/02/2025 19:12:03   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Secretaria   CTI  adm   Data  12/02/2025 19:12:32   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Secretaria   CTI adm  Data  12/02/2025 19:16:32   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Sec_esp   CTI 29  Data  12/02/2025 19:16:40   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Sec_esp   CTI 29  Data  12/02/2025 19:17:59   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Secretaria   CTI adm  Data  12/02/2025 19:18:07   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Sec_esp   CTI 29  Data  12/02/2025 19:18:12   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Secretaria   CTI adm  Data  12/02/2025 19:18:29   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Sec_esp   CTI 29  Data  12/02/2025 19:18:37   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Secretaria   CTI adm  Data  12/02/2025 19:19:17   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Sec_esp   CTI 29  Data  12/02/2025 19:19:21   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Secretaria   CTI adm  Data  12/02/2025 19:20:37   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Sec_esp   CTI 29  Data  12/02/2025 19:20:40   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Secretaria   CTI adm  Data  12/02/2025 19:22:46   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Sec_esp   CTI 29  Data  12/02/2025 19:22:53   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Sec_esp   CTI 29  Data  12/02/2025 19:23:45   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Secretaria   CTI adm  Data  12/02/2025 19:38:45   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Sec_esp   CTI 29  Data  12/02/2025 19:38:52   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Secretaria   CTI adm  Data  12/02/2025 19:39:17   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Sec_esp   CTI 29  Data  12/02/2025 19:39:21   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Secretaria   CTI adm  Data  12/02/2025 19:40:53   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Sec_esp   CTI 29  Data  12/02/2025 19:40:57   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Secretaria   CTI   tec  Data  12/02/2025 19:41:37   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Sec_esp   CTI 33  Data  12/02/2025 19:41:44   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Usuarios   CTI  claudio  Data  12/02/2025 19:42:22   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Tecnicos   CTI  claudio  Data  12/02/2025 19:42:31   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_resp   CTI     Data  12/02/2025 19:45:13   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_resp   CTI doug    Data  12/02/2025 19:49:53   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_resp   CTI doug    Data  12/02/2025 19:51:19   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_resp   CTI doug    Data  12/02/2025 19:51:56   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_resp   CTI doug    Data  12/02/2025 19:51:59   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_resp   CTI doug    Data  12/02/2025 19:53:12   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_resp   CTI doug    Data  12/02/2025 19:53:41   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_resp   CTI doug    Data  12/02/2025 19:54:08   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_pcs   CTI     Data  12/02/2025 19:58:52   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_pcs   CTI     Data  12/02/2025 19:59:37   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI     Data  12/02/2025 20:03:41   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI     Data  12/02/2025 20:04:04   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Id   CTI     Data  12/02/2025 20:04:26   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI   2523  Data  12/02/2025 20:05:57   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_div   CTI     Data  12/02/2025 20:27:50   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_mon   CTI     Data  12/02/2025 20:28:13   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_div   CTI     Data  12/02/2025 20:29:03   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_div   CTI     Data  12/02/2025 20:29:17   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_div   CTI     Data  12/02/2025 20:30:37   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_div   CTI     Data  12/02/2025 20:31:23   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Local   CTI     Data  12/02/2025 20:38:46   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Unidade   CTI 169  Data  12/02/2025 20:38:54   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Local   CTI   sede  Data  12/02/2025 20:39:15   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Unidade   CTI 393  Data  12/02/2025 20:39:21   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Local_Cod   CTI   474  Data  12/02/2025 20:40:15   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Local_Cod   CTI   474  Data  12/02/2025 20:45:14   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI   194  Data  12/02/2025 20:45:54   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Local_Cod   CTI 454    Data  12/02/2025 20:46:08   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI   987  Data  12/02/2025 20:46:51   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI 2523  Data  12/02/2025 20:47:55   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Local_Cod   CTI   156  Data  12/02/2025 20:49:33   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Local   CTI   sede  Data  12/02/2025 20:52:17   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Unidade   CTI 393  Data  12/02/2025 20:52:24   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Local   CTI santa    Data  12/02/2025 20:52:41   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Unidade   CTI 398  Data  12/02/2025 20:52:44   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Local   CTI tecnologia  Data  12/02/2025 20:52:59   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Unidade   CTI 601  Data  12/02/2025 20:53:08   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_pcs   CTI     Data  13/02/2025 12:21:54   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_pcs   CTI     Data  13/02/2025 12:22:31   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_div   CTI     Data  13/02/2025 12:23:10   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_div   CTI     Data  13/02/2025 12:23:44   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_div   CTI     Data  13/02/2025 12:23:56   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_mon   CTI     Data  13/02/2025 12:24:38   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_mon   CTI     Data  13/02/2025 12:25:37   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_mon   CTI     Data  13/02/2025 12:30:35   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_mon   CTI     Data  13/02/2025 16:42:29   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_mon   CTI     Data  13/02/2025 17:23:22   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_mon   CTI     Data  13/02/2025 17:23:42   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_mon   CTI     Data  13/02/2025 17:25:21   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_mon   CTI     Data  13/02/2025 17:33:24   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_mon   CTI     Data  13/02/2025 17:33:40   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_mon   CTI     Data  13/02/2025 17:33:47   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_mon   CTI     Data  13/02/2025 17:34:08   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_mon   CTI     Data  13/02/2025 17:34:13   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_mon   CTI     Data  13/02/2025 17:34:43   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_mon   CTI     Data  13/02/2025 17:34:54   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_div   CTI     Data  13/02/2025 17:37:07   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_div   CTI     Data  13/02/2025 17:37:32   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_div   CTI     Data  13/02/2025 17:37:48   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_div   CTI     Data  13/02/2025 17:38:21   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_pcs   CTI     Data  13/02/2025 17:38:46   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_pcs   CTI     Data  13/02/2025 17:40:54   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_pcs   CTI     Data  13/02/2025 17:41:31   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_arm_tp   CTI   sata_ssd  Data  13/02/2025 17:47:57   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Secretaria   CTI   adm  Data  14/02/2025 12:27:05   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Sec_esp   CTI 29  Data  14/02/2025 12:27:10   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Secretaria   CTI     Data  14/02/2025 12:27:42   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Sec_esp   CTI 29  Data  14/02/2025 12:27:49   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Secretaria   CTI     Data  14/02/2025 12:42:57   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Sec_esp   CTI 29  Data  14/02/2025 12:43:01   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Secretaria   CTI     Data  14/02/2025 12:43:37   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Sec_esp   CTI 31  Data  14/02/2025 12:43:42   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Secretaria   CTI     Data  14/02/2025 12:43:47   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Sec_esp   CTI 36  Data  14/02/2025 12:43:55   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Secretaria   CTI     Data  14/02/2025 13:29:31   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Sec_esp   CTI 32  Data  14/02/2025 13:29:36   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Secretaria   CTI     Data  14/02/2025 13:29:53   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Sec_esp   CTI 32  Data  14/02/2025 13:29:56   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Secretaria   CTI     Data  14/02/2025 13:30:27   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Sec_esp   CTI 36  Data  14/02/2025 13:30:31   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Secretaria   CTI     Data  14/02/2025 13:31:37   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Sec_esp   CTI 36  Data  14/02/2025 13:31:40   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Secretaria   CTI     Data  14/02/2025 13:32:35   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Sec_esp   CTI 37  Data  14/02/2025 13:32:40   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Secretaria   CTI     Data  14/02/2025 13:32:46   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Sec_esp   CTI 35  Data  14/02/2025 13:32:50   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Secretaria   CTI     Data  14/02/2025 13:32:55   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Sec_esp   CTI 36  Data  14/02/2025 13:32:58   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Secretaria   CTI     Data  14/02/2025 14:39:42   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Sec_esp   CTI 36  Data  14/02/2025 14:39:46   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Secretaria   CTI     Data  14/02/2025 14:45:22   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Sec_esp   CTI 36  Data  14/02/2025 14:45:26   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Secretaria   CTI     Data  14/02/2025 14:50:53   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Sec_esp   CTI 36  Data  14/02/2025 14:50:58   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Secretaria   CTI     Data  14/02/2025 14:55:42   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Sec_esp   CTI 41  Data  14/02/2025 14:55:47   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Secretaria   CTI     Data  14/02/2025 14:56:19   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Sec_esp   CTI 32  Data  14/02/2025 14:56:23   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Secretaria   CTI     Data  14/02/2025 15:12:23   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Sec_esp   CTI 32  Data  14/02/2025 15:12:29   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Secretaria   CTI     Data  14/02/2025 15:15:08   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Sec_esp   CTI 22  Data  14/02/2025 15:15:12   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Secretaria   CTI     Data  14/02/2025 15:15:21   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Sec_esp   CTI 40  Data  14/02/2025 15:15:28   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Secretaria   CTI     Data  14/02/2025 15:19:05   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Sec_esp   CTI 40  Data  14/02/2025 15:19:11   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI 3263    Data  14/02/2025 15:21:35   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI   3263  Data  14/02/2025 15:21:44   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI   02992  Data  14/02/2025 15:22:47   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI   2992  Data  14/02/2025 15:22:53   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Secretaria   CTI     Data  14/02/2025 15:24:55   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Sec_esp   CTI 40  Data  14/02/2025 15:24:58   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Secretaria   CTI     Data  14/02/2025 15:26:52   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Sec_esp   CTI 40  Data  14/02/2025 15:26:55   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Secretaria   CTI     Data  14/02/2025 15:28:11   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Sec_esp   CTI 40  Data  14/02/2025 15:28:15   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Secretaria   CTI     Data  14/02/2025 15:29:37   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Sec_esp   CTI 40  Data  14/02/2025 15:29:41   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Secretaria   CTI     Data  14/02/2025 15:38:10   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Sec_esp   CTI 40  Data  14/02/2025 15:38:13   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Secretaria   CTI     Data  14/02/2025 15:58:12   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Sec_esp   CTI 40  Data  14/02/2025 15:58:15   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Secretaria   CTI     Data  14/02/2025 16:11:19   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Sec_esp   CTI 32  Data  14/02/2025 16:11:22   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Secretaria   CTI     Data  14/02/2025 16:11:42   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Sec_esp   CTI 33  Data  14/02/2025 16:11:50   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Secretaria   CTI     Data  14/02/2025 17:04:04   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Sec_esp   CTI 32  Data  14/02/2025 17:04:08   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Secretaria   CTI     Data  14/02/2025 17:09:15   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Sec_esp   CTI 40  Data  14/02/2025 17:09:18   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Secretaria   CTI     Data  14/02/2025 17:10:46   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Sec_esp   CTI 40  Data  14/02/2025 17:10:50   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Secretaria   CTI     Data  14/02/2025 17:25:21   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Sec_esp   CTI 40  Data  14/02/2025 17:25:25   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Secretaria   CTI     Data  14/02/2025 17:25:34   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Sec_esp   CTI 32  Data  14/02/2025 17:25:38   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Secretaria   CTI     Data  14/02/2025 17:25:43   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Sec_esp   CTI 31  Data  14/02/2025 17:25:50   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Secretaria   CTI     Data  14/02/2025 17:26:01   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Sec_esp   CTI 32  Data  14/02/2025 17:26:04   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_mon   CTI     Data  14/02/2025 17:26:19   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Secretaria   CTI     Data  14/02/2025 17:26:30   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Sec_esp   CTI 31  Data  14/02/2025 17:26:33   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Secretaria   CTI     Data  14/02/2025 17:26:55   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Sec_esp   CTI 33  Data  14/02/2025 17:27:06   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Secretaria   CTI     Data  14/02/2025 17:27:12   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Sec_esp   CTI 33  Data  14/02/2025 17:27:16   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Secretaria   CTI     Data  14/02/2025 18:05:24   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Sec_esp   CTI 40  Data  14/02/2025 18:05:29   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Secretaria   CTI     Data  14/02/2025 18:07:07   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Sec_esp   CTI 36  Data  14/02/2025 18:07:15   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Secretaria   CTI     Data  14/02/2025 18:07:26   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Sec_esp   CTI 38  Data  14/02/2025 18:07:32   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Secretaria   CTI     Data  14/02/2025 18:07:40   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Sec_esp   CTI 39  Data  14/02/2025 18:07:53   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Secretaria   CTI     Data  14/02/2025 18:08:05   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Sec_esp   CTI 30  Data  14/02/2025 18:08:15   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Secretaria   CTI     Data  14/02/2025 18:27:08   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Sec_esp   CTI 30  Data  14/02/2025 18:27:14   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Sec_esp   CTI 30  Data  14/02/2025 18:28:23   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Sec_esp   CTI 30  Data  14/02/2025 18:28:30   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Sec_esp   CTI 30  Data  14/02/2025 18:28:48   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Secretaria   CTI     Data  14/02/2025 18:28:54   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Sec_esp   CTI 30  Data  14/02/2025 18:28:57   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Sec_esp   CTI 30  Data  14/02/2025 18:29:16   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Secretaria   CTI     Data  14/02/2025 18:31:53   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Sec_esp   CTI 39  Data  14/02/2025 18:31:58   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Secretaria   CTI     Data  14/02/2025 18:32:46   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Sec_esp   CTI 39  Data  14/02/2025 18:32:54   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Secretaria   CTI     Data  14/02/2025 18:32:59   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Sec_esp   CTI 39  Data  14/02/2025 18:33:03   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Secretaria   CTI     Data  14/02/2025 18:34:53   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Sec_esp   CTI 45  Data  14/02/2025 18:35:01   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Secretaria   CTI     Data  14/02/2025 18:35:59   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Sec_esp   CTI 45  Data  14/02/2025 18:36:05   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+IMI   CTI 4000  Data  14/02/2025 19:05:08   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+I_T.I.   CTI 4000  Data  14/02/2025 19:05:08   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+IMO   CTI 4001  Data  14/02/2025 19:05:08   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+I_T.I.mo   CTI 4001  Data  14/02/2025 19:05:08   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+IMI   CTI 4002  Data  14/02/2025 19:08:31   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+I_T.I.   CTI 4002  Data  14/02/2025 19:08:31   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+IMO   CTI 4003  Data  14/02/2025 19:08:31   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+I_T.I.mo   CTI 4003  Data  14/02/2025 19:08:31   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+IMI   CTI 4004  Data  17/02/2025 13:06:14   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+I_T.I.   CTI 4004  Data  17/02/2025 13:06:14   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+IMO   CTI 4005  Data  17/02/2025 13:06:14   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+I_T.I.mo   CTI 4005  Data  17/02/2025 13:06:14   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Resumo   CTI   3243  Data  18/02/2025 13:26:17   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Resumo   CTI   3250  Data  18/02/2025 13:28:08   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Resumo   CTI   3250  Data  18/02/2025 13:29:17   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+IMI   CTI 4015  Data  21/02/2025 16:52:13   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+I_T.I.   CTI 4015  Data  21/02/2025 16:52:13   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+IMO   CTI 4016  Data  21/02/2025 16:52:13   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+I_T.I.mo   CTI 4016  Data  21/02/2025 16:52:13   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+IMI   CTI 4017  Data  21/02/2025 17:34:45   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+I_T.I.   CTI 4017  Data  21/02/2025 17:34:45   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+IMO   CTI 4018  Data  21/02/2025 17:34:45   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+I_T.I.mo   CTI 4018  Data  21/02/2025 17:34:45   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+IMI   CTI 4019  Data  21/02/2025 17:36:08   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+I_T.I.   CTI 4019  Data  21/02/2025 17:36:08   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+IMO   CTI 4020  Data  21/02/2025 17:36:08   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+I_T.I.mo   CTI 4020  Data  21/02/2025 17:36:08   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI 4019    Data  21/02/2025 17:36:14   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_arm_tp   CTI     Data  28/02/2025 13:28:10   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_arm_tp   CTI 33    Data  28/02/2025 13:32:50   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_arm_tp   CTI 33    Data  28/02/2025 13:35:05   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Secretaria   CTI     Data  28/02/2025 13:35:20   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Sec_esp   CTI 40  Data  28/02/2025 13:35:28   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ects   CTI 40    Data  28/02/2025 13:35:55   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ects   CTI 40    Data  28/02/2025 13:41:44   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ects   CTI 40    Data  28/02/2025 13:43:04   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ects   CTI 40    Data  28/02/2025 13:43:35   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ects   CTI 40    Data  28/02/2025 13:44:51   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ects   CTI 40    Data  28/02/2025 13:45:35   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ects   CTI 40    Data  28/02/2025 13:45:48   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ects   CTI 40    Data  28/02/2025 13:46:43   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ects   CTI 40    Data  28/02/2025 13:46:54   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ects   CTI 40    Data  28/02/2025 13:47:29   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ects   CTI 40    Data  28/02/2025 13:47:59   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ects   CTI 40    Data  28/02/2025 13:48:28   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ects   CTI 40    Data  28/02/2025 13:48:44   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ects   CTI 40    Data  28/02/2025 13:49:10   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI   47812  Data  28/02/2025 15:31:45   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ects   CTI   39  Data  28/02/2025 17:06:40   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ects2   CTI   22  Data  28/02/2025 17:23:05   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ects2   CTI   22  Data  28/02/2025 17:23:23   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ects2   CTI 21    Data  28/02/2025 17:23:58   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ects2   CTI  24   Data  28/02/2025 17:24:40   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_resumo0   CTI     Data  28/02/2025 17:58:16   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_resumo   CTI     Data  28/02/2025 17:58:22   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_div   CTI     Data  28/02/2025 17:58:35   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Secretaria   CTI   urb  Data  28/02/2025 17:59:29   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Sec_esp   CTI 34  Data  28/02/2025 17:59:34   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Secretaria   CTI   urb  Data  28/02/2025 18:01:55   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Sec_esp   CTI 32  Data  28/02/2025 18:01:59   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ecst3   CTI   40  Data  07/03/2025 12:23:18   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ecst3   CTI  33   Data  07/03/2025 12:24:05   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ecst3   CTI   40  Data  07/03/2025 12:29:37   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ecst3   CTI   40  Data  07/03/2025 12:30:14   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ecst3   CTI   40  Data  07/03/2025 12:30:15   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ecst3   CTI   40  Data  07/03/2025 12:31:28   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ecst3   CTI   40  Data  07/03/2025 12:33:40   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ecst3   CTI   40  Data  07/03/2025 12:34:03   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ecst3   CTI   40  Data  07/03/2025 12:34:22   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ecst3   CTI   40  Data  07/03/2025 12:39:43   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ecst3   CTI   40  Data  07/03/2025 12:40:08   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ecst3   CTI   40  Data  07/03/2025 12:42:11   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ecst3   CTI   40  Data  07/03/2025 12:42:29   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ects   CTI   40  Data  07/03/2025 12:43:33   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ecst4   CTI   40  Data  07/03/2025 12:47:17   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ecst4   CTI   40  Data  07/03/2025 12:55:28   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ecst4   CTI   40  Data  07/03/2025 12:57:44   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ecst4   CTI   40  Data  07/03/2025 13:43:01   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ecst4   CTI   40  Data  07/03/2025 13:43:27   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ecst4   CTI   40  Data  07/03/2025 13:44:38   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ecst4   CTI   40  Data  07/03/2025 13:46:55   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ecst4   CTI   40  Data  07/03/2025 13:49:59   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ecst4   CTI   40  Data  07/03/2025 14:08:05   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ecst4   CTI   40  Data  07/03/2025 14:08:38   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ecst4   CTI   40  Data  07/03/2025 14:10:11   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ecst4   CTI   40  Data  07/03/2025 14:11:18   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ecst4   CTI   40  Data  07/03/2025 14:11:52   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ecst4   CTI   40  Data  07/03/2025 14:12:08   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ecst4   CTI   40  Data  07/03/2025 14:12:19   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ecst4   CTI   40  Data  07/03/2025 14:12:43   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ecst4   CTI   40  Data  07/03/2025 14:14:17   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ecst4   CTI   40  Data  07/03/2025 14:15:30   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+IMI   CTI 3259  Data  07/03/2025 14:28:19   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+I_T.I.   CTI 3259  Data  07/03/2025 14:28:19   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ecst4   CTI   40  Data  07/03/2025 16:56:06   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ecst4   CTI   40  Data  07/03/2025 16:58:05   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ecst4   CTI   40  Data  07/03/2025 16:58:37   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ecst4   CTI   40  Data  07/03/2025 16:59:54   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ecst4   CTI   40  Data  07/03/2025 17:01:14   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ecst4   CTI   40  Data  07/03/2025 17:01:55   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ecst4   CTI 36  Data  07/03/2025 17:06:29   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ecst3   CTI   farm  Data  07/03/2025 13:19:45   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ecst3   CTI   osasco  Data  07/03/2025 13:20:03   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ecst3   CTI   osasco  Data  07/03/2025 13:20:35   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ecst3_local   CTI   osas  Data  07/03/2025 13:20:46   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Unidade   CTI 758  Data  07/03/2025 13:20:53   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ecst3_local   CTI   osas  Data  07/03/2025 13:22:07   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Unidade   CTI 758  Data  07/03/2025 13:22:11   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ecst3_local   CTI   osas  Data  07/03/2025 13:22:18   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Unidade   CTI 400  Data  07/03/2025 13:22:23   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ecst3_local   CTI   osas  Data  07/03/2025 13:23:13   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Unidade   CTI 400  Data  07/03/2025 13:23:17   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ecst3_local   CTI   osas  Data  07/03/2025 13:23:35   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Unidade   CTI 400  Data  07/03/2025 13:23:45   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ecst3_local   CTI   osas  Data  07/03/2025 13:24:15   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Unidade   CTI 400  Data  07/03/2025 13:24:19   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ecst3_local   CTI   osas  Data  07/03/2025 13:24:29   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Unidade   CTI 400  Data  07/03/2025 13:24:57   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ecst3_local   CTI   osas  Data  07/03/2025 13:25:38   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ecst3   CTI 400  Data  07/03/2025 13:25:41   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ecst3_local   CTI   osas  Data  07/03/2025 13:28:25   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ecst3   CTI 400  Data  07/03/2025 13:28:29   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ecst3   CTI 400  Data  07/03/2025 13:28:59   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ecst3_local   CTI   osas  Data  07/03/2025 13:29:06   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ecst3   CTI 400  Data  07/03/2025 13:29:09   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ecst3_local   CTI   osas  Data  07/03/2025 13:29:44   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ecst3   CTI 400  Data  07/03/2025 13:29:47   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ecst3   CTI 400  Data  07/03/2025 13:30:38   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI 3259    Data  07/03/2025 17:37:43   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI   511  Data  07/03/2025 15:54:40   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI  3351   Data  07/03/2025 16:29:22   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI   511  Data  07/03/2025 16:38:55   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI   3351  Data  07/03/2025 16:39:05   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI   520  Data  07/03/2025 16:39:20   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI 520    Data  07/03/2025 16:41:06   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI   3395  Data  07/03/2025 16:41:20   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI   3394  Data  10/03/2025 09:08:03   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+IMI   CTI 4500  Data  10/03/2025 09:31:52   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+I_T.I.   CTI 4500  Data  10/03/2025 09:31:52   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+IMO   CTI 4501  Data  10/03/2025 09:31:52   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+I_T.I.mo   CTI 4501  Data  10/03/2025 09:31:52   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_mon   CTI     Data  12/03/2025 09:48:09   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_mon   CTI     Data  12/03/2025 09:48:16   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI   1000  Data  12/03/2025 09:48:45   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI   1000  Data  12/03/2025 09:48:59   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_mon   CTI     Data  12/03/2025 09:49:09   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_mon   CTI     Data  12/03/2025 09:49:16   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_mon_1   CTI     Data  12/03/2025 09:49:31   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_mon_1   CTI     Data  12/03/2025 09:49:36   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI     Data  12/03/2025 09:49:46   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI     Data  12/03/2025 09:49:53   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI   195  Data  12/03/2025 09:53:00   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_mon   CTI     Data  12/03/2025 09:53:21   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_mon   CTI     Data  12/03/2025 09:53:36   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_mon   CTI     Data  12/03/2025 09:53:48   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_mon   CTI     Data  12/03/2025 09:54:04   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_mon   CTI     Data  12/03/2025 09:54:15   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_mon   CTI     Data  12/03/2025 09:54:25   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI   183  Data  12/03/2025 09:54:38   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI   Data  12/03/2025 09:54:50   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI   1000  Data  12/03/2025 09:56:42   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI   1000  Data  12/03/2025 09:56:57   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI     Data  12/03/2025 09:57:11   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI     Data  12/03/2025 09:57:17   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI     Data  12/03/2025 09:57:26   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Resumo   CTI   1099  Data  12/03/2025 10:01:38   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_Resumo   CTI   1099  Data  12/03/2025 10:02:11   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_resumo   CTI   1099  Data  12/03/2025 10:02:36   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_infs_tab   CTI   1099  Data  12/03/2025 10:11:41   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_infs_tab   CTI 1099  Data  12/03/2025 10:12:41   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_infs_tab   CTI 1099  Data  12/03/2025 10:18:23   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_infs_tab   CTI 1099  Data  12/03/2025 10:19:10   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_infs_tab   CTI 1099  Data  12/03/2025 10:20:01   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_infs_tab   CTI 1099  Data  12/03/2025 10:20:03   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_infs_tab   CTI 1099  Data  12/03/2025 10:23:12   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_infs_tab   CTI 1099  Data  12/03/2025 10:27:40   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI     Data  12/03/2025 10:28:09   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_infs_tab   CTI   1099  Data  12/03/2025 10:33:26   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_infs_tab   CTI   1099  Data  12/03/2025 10:37:04   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_infs_tab   CTI   1099  Data  12/03/2025 10:37:26   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_infs_tab   CTI   1099  Data  12/03/2025 10:37:43   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_infs_tab   CTI   1099  Data  12/03/2025 10:39:25   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_infs_tab   CTI 2508  Data  12/03/2025 10:42:40   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_rack   CTI     Data  12/03/2025 10:43:22   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_swi   CTI     Data  12/03/2025 10:43:29   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_rack   CTI     Data  12/03/2025 10:45:34   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_infs_tab   CTI   1454  Data  12/03/2025 10:45:57   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_infs_tab   CTI   1454  Data  12/03/2025 13:26:07   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_infs_tab   CTI   1454  Data  12/03/2025 13:26:48   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_infs_tab   CTI   1454  Data  12/03/2025 13:27:11   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_infs_tab   CTI   1454  Data  12/03/2025 13:27:42   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_infs_tab   CTI   1454  Data  12/03/2025 13:32:50   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_infs_tab   CTI   1454  Data  12/03/2025 13:34:16   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_infs_tab   CTI   1454  Data  12/03/2025 13:35:14   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_mon   CTI     Data  12/03/2025 13:39:08   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI     Data  13/03/2025 10:05:11   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI   4052  Data  13/03/2025 10:07:13   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_mon   CTI     Data  13/03/2025 10:07:43   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_mon   CTI     Data  13/03/2025 10:07:54   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_pl_mae   CTI baseboard  Data  13/03/2025 10:32:17   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_proc   CTI   12th  Data  13/03/2025 10:33:09   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI     Data  13/03/2025 10:35:48   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI 3395    Data  13/03/2025 13:45:03   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI 3395    Data  13/03/2025 13:45:41   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI   3547  Data  13/03/2025 15:08:01   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
+Cons_ctrl_TI   CTI     Data  19/03/2025 08:29:59   Usuario Claudio  Local  ::1/::1/WKS2209273.DCCOLOMBO.STI
