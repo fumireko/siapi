@@ -11,11 +11,12 @@ $dao = new ChamadoDAO($conn);
 
 if (isset($_POST["detalhar"])) {
     $id_dados = $_POST["id_dados"];
+    $tipo_solucao = $_POST["tipo_solucao"];
     $solucao = $_POST["solucao"];
     $hora = date("H:i:s");
     $tecnico = $_SESSION["email_usuario"];
 
-    if ($dao->atualizarSolucao($id_dados, $solucao, $tecnico, $hora)) {
+    if ($dao->atualizarSolucao($id_dados, $solucao, $tipo_solucao, $tecnico, $hora)) {
         echo "<script>alert('Atualizado com sucesso.');</script>";
         echo "<script>window.location.href = './frmporstatus.php';</script>";
     } else {
@@ -92,6 +93,7 @@ if (isset($_POST["detalhar"])) {
     // Exibe os detalhes do chamado
     $id_dados = $_GET["detalhar"];
     $chamado = $dao->getChamadoById($id_dados);
+    $tipo_solucao = $chamado->getTipoSolucao();
 
     if (!$chamado) {
         echo "<script>alert('Chamado não encontrado!');</script>";
@@ -168,6 +170,14 @@ if (isset($_POST["detalhar"])) {
                 <div class="mb-3">
                     <label for="prob" class="form-label">Problema:</label>
                     <textarea class="form-control" id="prob" rows="3" disabled><?= $chamado->getProblema() ?></textarea>
+                </div>
+
+                <div class="mb-3">
+                    <label for="tipo_solucao" class="form-label fw-bold">Tipo solução:</label>
+                    <select name="tipo_solucao" id="tipo" class="form-select">
+                        <option value="Helpdesk" <?= ($tipo_solucao == 'Helpdesk') ? 'selected' : ''; ?>>Helpdesk</option>
+                        <option value="Campo" <?= ($tipo_solucao == 'Campo') ? 'selected' : ''; ?>>Atendimento em campo</option>
+                    </select>
                 </div>
 
                 <div class="mb-3">

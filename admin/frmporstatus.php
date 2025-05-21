@@ -3,6 +3,11 @@
     include "../validar_session.php";  
     include "../Config/config_sistema.php";
     include "../validar_session2.php";
+
+    if($_SESSION['nome_usuario'] == ''){
+        header("Location: /");
+    }
+
     $email_usuario = $_SESSION['email_usuario'];
     $nome_usuario = $_SESSION['nome_usuario'];
     $nivel_usuario = $_SESSION['nivel_usuario'];
@@ -89,7 +94,7 @@
                 <option value="" <?= $regiao == 'Todos' ? 'selected' : ''; ?>>Todos</option>
                 <option value="Sede" <?= $regiao == 'Sede' ? 'selected' : ''; ?>>Sede</option>
                 <option value="Regional Maracanã" <?= $regiao == 'Regional Maracanã' ? 'selected' : ''; ?>>Regional Maracanã</option>
-                <option value="Regional Osasco" <?= $regiao == 'Regional Osasco' ? 'selected' : ''; ?>>Regional Osasco</option>
+                <option value="Osasco" <?= $regiao == 'Osasco' ? 'selected' : ''; ?>>Regional Osasco</option>
             </select>
             <label for="regiao">Região:</label>
         </div>
@@ -225,7 +230,22 @@
                     <td data-title="Depto"><?= $chamado->getDepartamento()->getNome(); ?></td>
                     <td data-title="Tipo Serviço"><?= $chamado->getTipoServico(); ?></td>
                     <td data-title="Problema"><?= $chamado->getProblema(); ?></td>
-                    <td data-title="Solução"><?= $chamado->getSolucao() ?: '--'; ?></td>
+                    <td data-title="Solução">
+                        <?php if($chamado->getTipoSolucao() == 'Campo'): ?>
+                            <p class="badge text-bg-success align-self-end mb-1">
+                                <i class="fa fa-sm fa-car"></i>
+                                Campo
+                            </p>
+                        <?php endif; ?>
+                        <?php if($chamado->getTipoSolucao() == 'Helpdesk'): ?>
+                            <p class="badge text-bg-info text-white align-self-end mb-1">
+                                <i class="fa fa-sm fa-desktop"></i>
+                                Helpdesk
+                            </p>
+                        <?php endif; ?>
+                        <br>
+                        <?= $chamado->getSolucao() ?: '--'; ?>
+                    </td>
                     <td data-title="Atendente">
                         <?= $chamado->getAtendente() ?: '--'; ?>
                         <br>

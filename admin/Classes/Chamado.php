@@ -16,8 +16,9 @@ class Chamado {
     private $dataFinalizado;
     private $horaFinalizado;
     private $status;
+    private $tipoSolucao;
 
-    public function __construct($id, $nomeSolicitante, $email, $dataAbertura, $horaAbertura, $problema, $solucao, $regiao, $secretaria, $departamento, $telefone, $tipoServico, $atendente, $dataFinalizado = null, $horaFinalizado = null, $status = "Aberto") {
+    public function __construct($id, $nomeSolicitante, $email, $dataAbertura, $horaAbertura, $problema, $solucao, $regiao, $secretaria, $departamento, $telefone, $tipoServico, $atendente, $dataFinalizado = null, $horaFinalizado = null, $status = "Aberto", $tipoSolucao) {
         $this->id = $id;
         $this->nomeSolicitante = $nomeSolicitante;
         $this->email = $email;
@@ -34,6 +35,7 @@ class Chamado {
         $this->dataFinalizado = $dataFinalizado;
         $this->horaFinalizado = $horaFinalizado;
         $this->status = $status;
+        $this->tipoSolucao = $tipoSolucao;
     }
 
     public function getId() { return $this->id; }
@@ -52,6 +54,7 @@ class Chamado {
     public function getDataFinalizado() { return $this->dataFinalizado; }
     public function getHoraFinalizado() { return $this->horaFinalizado; }
     public function getStatus() { return $this->status; }
+    public function getTipoSolucao() { return $this->tipoSolucao; }
 
     public function setId($id) { $this->id = $id; }
     public function setNomeSolicitante($nomeSolicitante) { $this->nomeSolicitante = $nomeSolicitante; }
@@ -69,5 +72,6 @@ class Chamado {
     public function setDataFinalizado($dataFinalizado) { $this->dataFinalizado = $dataFinalizado; }
     public function setHoraFinalizado($horaFinalizado) { $this->horaFinalizado = $horaFinalizado; }
     public function setStatus($status) { $this->status = $status; }
+    public function setTipoSolucao($tipoSolucao) { $this->tipoSolucao = $tipoSolucao; }
 }
 ?>

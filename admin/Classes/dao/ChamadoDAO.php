@@ -10,7 +10,7 @@ class ChamadoDAO {
         $this->conn = $conn;
     }
 
-    public function buscarChamados($regiao = null, $status = null, $itensPorPagina = null, $pagina = null, $busca = null) {
+    public function buscarChamados($regiao = null, $status = null, $itensPorPagina = null, $pagina = null, $busca = null, $tipoSolucao = null) {
         $offset = ($pagina -1) * $itensPorPagina;
         
         $sql = "SELECT *
@@ -72,7 +72,8 @@ class ChamadoDAO {
                 $row['tecnico'],
                 $row['dtafin'],
                 $row['cha_horaf'],
-                $row['status']
+                $row['status'],
+                $row['tbldados_equipe']
             );
     
             array_push($chamados, $chamado);
@@ -183,7 +184,8 @@ class ChamadoDAO {
             $row['tecnico'],
             $row['dtafin'],
             $row['cha_horaf'],
-            $row['status']
+            $row['status'],
+            $row['tbldados_equipe'] 
         );
         
         return $chamado;
@@ -222,11 +224,19 @@ class ChamadoDAO {
         return $stmt->affected_rows > 0;
     }
     
-    public function atualizarSolucao($id, $solucao, $tecnico, $hora) {
-        $sql = "UPDATE tbldados SET solucao = ?, dtaatendido = NOW(), cha_horai = ?, tecnico = ?, status = ? WHERE id_dados = ?";
-        $stmt = $this->conn->prepare($sql);
+    public function atualizarSolucao($id, $solucao, $tipoSolucao, $tecnico, $hora) {
+        $sql = "UPDATE tbldados 
+                SET solucao = ?, 
+                    tbldados_equipe = ?, 
+                    dtaatendido = NOW(), 
+                    cha_horai = ?, 
+                    tecnico = ?, 
+                    status = ? 
+                WHERE id_dados = ?";
+        
         $status = 'atendendo';
-        $stmt->bind_param("ssssi", $solucao, $hora, $tecnico, $status, $id);
+        $stmt = $this->conn->prepare($sql);
+        $stmt->bind_param("sssssi", $solucao, $tipoSolucao, $hora, $tecnico, $status, $id);
         $stmt->execute();
         return $stmt->affected_rows > 0;
     }
